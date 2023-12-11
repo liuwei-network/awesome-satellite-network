@@ -5,7 +5,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 
 - [Security](https://github.com/liuwei-network/awesome-satellite-network#security)
 - [Measurement](https://github.com/liuwei-network/awesome-satellite-network#measurement)
-
+- [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network#earth-observation-satellites)
 ## Security
 
 ### Location Privacy
@@ -43,3 +43,9 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [A Browser-side View of Starlink Connectivity](https://dl.acm.org/doi/10.1145/3517745.3561457) (IMC 22)
 - [When satellite is all you have: watching the internet from 550 ms](https://dl.acm.org/doi/abs/10.1145/3517745.3561432) (IMC 22)
 - [Network Characteristics of LEO Satellite Constellations: A Starlink-Based Measurement from End Users](https://ieeexplore.ieee.org/abstract/document/10228912) (INFOCOM 22)
+
+## Earth Observation Satellites
+- [Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval](https://deepakv.web.illinois.edu/assets/papers/serval_nsdi24.pdf) (NSDI 24)
+- [Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time](https://dl.acm.org/doi/abs/10.1145/3570361.3592521) (MobiCom 23)
+- [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21)
+- [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
