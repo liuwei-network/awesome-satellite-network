@@ -2,10 +2,19 @@
 This repo collects academic papers/open-source projects/conference talks/frameworks/tools related to the research of satellite networks.
 
 ## Table of Content
-
+- [Routing/Topology](https://github.com/liuwei-network/awesome-satellite-network#routing-topology)
 - [Security](https://github.com/liuwei-network/awesome-satellite-network#security)
 - [Measurement](https://github.com/liuwei-network/awesome-satellite-network#measurement)
 - [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network#earth-observation-satellites)
+- [Others](https://github.com/liuwei-network/awesome-satellite-network#others)
+
+## Routing/Topology
+- [Network topology design at 27,000 km/hour](https://dl.acm.org/doi/10.1145/3359989.3365407) (CoNEXT 19)
+- [Delay is Not an Option: Low Latency Routing in Space](https://dl.acm.org/doi/10.1145/3286062.3286075) (HotNets 18)
+- [Networking in Heaven as on Earth](https://dl.acm.org/doi/10.1145/3286062.3286066) (HotNets 18)
+- [“Internet from Space” without Inter-satellite Links](https://dl.acm.org/doi/10.1145/3422604.3425938) (HotNets 20)
+- [Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/9796886) (INFOCOM 22)
+
 ## Security
 
 ### Location Privacy
@@ -49,3 +58,7 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time](https://dl.acm.org/doi/abs/10.1145/3570361.3592521) (MobiCom 23)
 - [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21)
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
+
+## Others
+- [A community-driven approach to democratize access to satellite ground stations](https://dl.acm.org/doi/10.1145/3447993.3448630) (MobiCom 21)
+- [A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519) (MobiCom 23)
