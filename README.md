@@ -2,18 +2,23 @@
 This repo collects academic papers/open-source projects/conference talks/frameworks/tools related to the research of satellite networks.
 
 ## Table of Content
-- [Routing/Topology](https://github.com/liuwei-network/awesome-satellite-network#routing-topology)
+- [Routing/Topology](https://github.com/liuwei-network/awesome-satellite-network#routingtopology)
 - [Security](https://github.com/liuwei-network/awesome-satellite-network#security)
 - [Measurement](https://github.com/liuwei-network/awesome-satellite-network#measurement)
 - [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network#earth-observation-satellites)
 - [Others](https://github.com/liuwei-network/awesome-satellite-network#others)
 
 ## Routing/Topology
+- [A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519) (MobiCom 23)
+- [Achieving Resilient and Performance-Guaranteed Routing in Space-Terrestrial Integrated Networks](https://ieeexplore.ieee.org/abstract/document/10229104) (INFOCOM 23)
+- [Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/9796886) (INFOCOM 22)
+- [Mobility- and Load-Adaptive Controller Placement and Assignment in LEO Satellite Networks](https://ieeexplore.ieee.org/document/9488806) (INFOCOM 21)
+- [“Internet from Space” without Inter-satellite Links](https://dl.acm.org/doi/10.1145/3422604.3425938) (HotNets 20)
+- [Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks](https://ieeexplore.ieee.org/document/9155485) (INFOCOM 20)
 - [Network topology design at 27,000 km/hour](https://dl.acm.org/doi/10.1145/3359989.3365407) (CoNEXT 19)
 - [Delay is Not an Option: Low Latency Routing in Space](https://dl.acm.org/doi/10.1145/3286062.3286075) (HotNets 18)
 - [Networking in Heaven as on Earth](https://dl.acm.org/doi/10.1145/3286062.3286066) (HotNets 18)
-- [“Internet from Space” without Inter-satellite Links](https://dl.acm.org/doi/10.1145/3422604.3425938) (HotNets 20)
-- [Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/9796886) (INFOCOM 22)
+
 
 ## Security
 
@@ -51,14 +56,27 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [A First Look at Starlink Performance](https://dl.acm.org/doi/10.1145/3517745.3561416) (IMC 22)
 - [A Browser-side View of Starlink Connectivity](https://dl.acm.org/doi/10.1145/3517745.3561457) (IMC 22)
 - [When satellite is all you have: watching the internet from 550 ms](https://dl.acm.org/doi/abs/10.1145/3517745.3561432) (IMC 22)
-- [Network Characteristics of LEO Satellite Constellations: A Starlink-Based Measurement from End Users](https://ieeexplore.ieee.org/abstract/document/10228912) (INFOCOM 22)
+- [Network Characteristics of LEO Satellite Constellations: A Starlink-Based Measurement from End Users](https://ieeexplore.ieee.org/abstract/document/10228912) (INFOCOM 23)
 
 ## Earth Observation Satellites
 - [Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval](https://deepakv.web.illinois.edu/assets/papers/serval_nsdi24.pdf) (NSDI 24)
 - [Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time](https://dl.acm.org/doi/abs/10.1145/3570361.3592521) (MobiCom 23)
 - [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21)
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
+- [UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes](https://dl.acm.org/doi/10.1145/3570361.3613263) (Mobicom 23)
+- [FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations](https://ieeexplore.ieee.org/abstract/document/10228910) (INFOCOM 23)
+
+## Transport
+- [SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks](https://ieeexplore.ieee.org/abstract/document/10228914) (INFOCOM 23)
+- [SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications](https://ieeexplore.ieee.org/document/9796887) (INFOCOM 22)
+- [Time-Varying Resource Graph Based Resource Model for Space-Terrestrial Integrated Networks](https://ieeexplore.ieee.org/document/9488855) (INFOCOM 21)
+
+## Hardware
+- [PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication](https://dl.acm.org/doi/10.1145/3570361.3613257) (Mobicom 23)
+- [Hummingbird: Energy Efficient GPS Receiver for Small Satellites](https://dl.acm.org/doi/10.1145/3372224.3380886) (Mobicom 20)
+
+## Platform
+- [StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks](https://www.usenix.org/conference/nsdi23/presentation/lai-zeqi) (NSDI 23)
 
 ## Others
 - [A community-driven approach to democratize access to satellite ground stations](https://dl.acm.org/doi/10.1145/3447993.3448630) (MobiCom 21)
-- [A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519) (MobiCom 23)
