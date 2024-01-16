@@ -2,17 +2,19 @@
 This repo collects academic papers/open-source projects/conference talks/frameworks/tools related to the research of satellite networks.
 
 ## Table of Content
-- [Full papers](https://github.com/liuwei-network/awesome-satellite-network#fullpaper)
+- [Full papers](https://github.com/liuwei-network/awesome-satellite-network#full-papers)
 	- [Routing/Topology](https://github.com/liuwei-network/awesome-satellite-network#routingtopology)
 	- [Security](https://github.com/liuwei-network/awesome-satellite-network#security)
 	- [Measurement](https://github.com/liuwei-network/awesome-satellite-network#measurement)
 	- [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network#earth-observation-satellites)
 	- [Transport](https://github.com/liuwei-network/awesome-satellite-network#transport)
-	- [Edge Computing](https://github.com/liuwei-network/awesome-satellite-network#edgecomputing)
+	- [Edge Computing](https://github.com/liuwei-network/awesome-satellite-network#edge-computing)
 	- [Hardware](https://github.com/liuwei-network/awesome-satellite-network#hardware)
-	- [Platfrom](https://github.com/liuwei-network/awesome-satellite-network#platfrom)
+	- [Platform](https://github.com/liuwei-network/awesome-satellite-network#platform)
 - [Workshops](https://github.com/liuwei-network/awesome-satellite-network#workshops)
 - [Tutorials](https://github.com/liuwei-network/awesome-satellite-network#tutorials)
+- [Projects](https://github.com/liuwei-network/awesome-satellite-network#projects)
+- [Datasets](https://github.com/liuwei-network/awesome-satellite-network#datasets)
 
 ## Full papers
 
@@ -20,6 +22,9 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 - [A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519) (MobiCom 23)
 - [Achieving Resilient and Performance-Guaranteed Routing in Space-Terrestrial Integrated Networks](https://ieeexplore.ieee.org/abstract/document/10229104) (INFOCOM 23)
 - [Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/9796886) (INFOCOM 22)
+- [Geographic Low-Earth-Orbit Networking without QoS Bottlenecks from Infrastructure Mobility](https://ieeexplore.ieee.org/document/9812903) (IWQoS 22)
+- [Towards Sustainable Multi-Tier Space Networking for LEO Satellite
+Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best Paper Award Runner-up)
 - [Mobility- and Load-Adaptive Controller Placement and Assignment in LEO Satellite Networks](https://ieeexplore.ieee.org/document/9488806) (INFOCOM 21)
 - [“Internet from Space” without Inter-satellite Links](https://dl.acm.org/doi/10.1145/3422604.3425938) (HotNets 20)
 - [Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks](https://ieeexplore.ieee.org/document/9155485) (INFOCOM 20)
@@ -59,6 +64,7 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [Energy Drain Attack in Satellite Internet Constellations](https://ieeexplore.ieee.org/document/10188709) (IWQoS 23)
 
 #### Spoofing
+- [Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting] (https://dl.acm.org/doi/10.1145/3576915.3623135) (CCS 23)
 - [Satellite Spoofing from A to Z: On the Requirements of Satellite Downlink Overshadowing Attacks](https://dl.acm.org/doi/abs/10.1145/3558482.3590190) (WiSec 23)
 
 ### Measurement
@@ -79,8 +85,8 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes](https://dl.acm.org/doi/10.1145/3570361.3613263) (Mobicom 23)
 - [FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations](https://ieeexplore.ieee.org/abstract/document/10228910) (INFOCOM 23)
 - [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21)
-- [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 - [OrbitCast: Exploiting Mega-Constellations for Low-Latency Earth Observation](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper56.pdf) (ICNP 21)
+- [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 
 ### Transport
 - [SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks](https://ieeexplore.ieee.org/abstract/document/10228914) (INFOCOM 23)
@@ -110,5 +116,28 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [LEO-NET 2023 The 1st ACM Workshop on LEO Networking and Communication 2023](https://leo-net-workshop.github.io/2023/) (Mobicom 23)
 - [1st ACM Workshop on Satellite Networking and Computing (SatCom)](https://soar.group/satcom23/) (Mobicom 23)
 - [First Workshop on 6G Enablers: Satellite, Qualitative and Semantic Communications](https://qualitativesemantic.wordpress.com) (ICNP 23)
+
 ## Tutorials
 - [Integrated Satellite-Terrestrial Network (ISTN)](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html) (SIGCOMM 21)
+
+## Projects 
+
+### Simulator
+- [CosmicBeats Simulator](https://github.com/microsoft/CosmicBeats-Simulator)
+- [StarryNet](https://github.com/SpaceNetLab/StarryNet)
+- [StarPerf](https://github.com/SpaceNetLab/StarPerf_Simulator)
+- [6GSPACELab](https://6gspacelab.uni.lu/5GforSpace)
+
+### Visualization
+- [Starlink.sx](https://starlink.sx)
+- [See Starlink](https://james.darpinian.com/satellites/?special=starlink)
+- [Satellitemap.space](https://satellitemap.space)
+
+### Orbit
+- [Skyfield](https://rhodesmill.org/skyfield/)
+- [ESA's Space Debris Software](https://sdup.esoc.esa.int)
+
+## Dataset
+### Orbit data
+- [Space-track](https://www.space-track.org/)
+- [Celetrack](https://celestrak.com)
