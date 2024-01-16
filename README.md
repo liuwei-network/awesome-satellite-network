@@ -112,7 +112,7 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [StarPerf: Characterizing Network Performance for Emerging Mega-Constellations](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf) (ICNP 20)
 
 ## Workshops
-- [Workshop on Security of Space and Satellite Systems (SpaceSec) 2023 Program] (https://www.ndss-symposium.org/ndss-program/spacesec-2023/) (NDSS 23)
+- [Workshop on Security of Space and Satellite Systems (SpaceSec)](https://www.ndss-symposium.org/ndss-program/spacesec-2023/) (NDSS 23)
 - [LEO-NET 2023 The 1st ACM Workshop on LEO Networking and Communication 2023](https://leo-net-workshop.github.io/2023/) (Mobicom 23)
 - [1st ACM Workshop on Satellite Networking and Computing (SatCom)](https://soar.group/satcom23/) (Mobicom 23)
 - [First Workshop on 6G Enablers: Satellite, Qualitative and Semantic Communications](https://qualitativesemantic.wordpress.com) (ICNP 23)
