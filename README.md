@@ -9,6 +9,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 	- [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network#earth-observation-satellites)
 	- [Transport](https://github.com/liuwei-network/awesome-satellite-network#transport)
 	- [Edge Computing](https://github.com/liuwei-network/awesome-satellite-network#edge-computing)
+	- [Satellite IoT](https://github.com/liuwei-network/awesome-satellite-network#satellite-iot)
 	- [Hardware](https://github.com/liuwei-network/awesome-satellite-network#hardware)
 	- [Platform](https://github.com/liuwei-network/awesome-satellite-network#platform)
 - [Workshops](https://github.com/liuwei-network/awesome-satellite-network#workshops)
@@ -100,6 +101,10 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 ### Edge Computing
 - [Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis](https://arxiv.org/abs/2401.03435) (Mobicom 24)
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
+
+### Satellite IoT
+- [Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things
+](https://deepakv.web.illinois.edu/assets/papers/spectrumize_nsdi24.pdf) (NSDI 24)
 
 ### Hardware
 - [PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication](https://dl.acm.org/doi/10.1145/3570361.3613257) (Mobicom 23)
