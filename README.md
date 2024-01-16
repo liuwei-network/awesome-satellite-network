@@ -6,7 +6,9 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 - [Security](https://github.com/liuwei-network/awesome-satellite-network#security)
 - [Measurement](https://github.com/liuwei-network/awesome-satellite-network#measurement)
 - [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network#earth-observation-satellites)
-- [Others](https://github.com/liuwei-network/awesome-satellite-network#others)
+- [Transport](https://github.com/liuwei-network/awesome-satellite-network#transport)
+- [Hardware](https://github.com/liuwei-network/awesome-satellite-network#hardware)
+- [Platfrom](https://github.com/liuwei-network/awesome-satellite-network#platfrom)
 
 ## Routing/Topology
 - [A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519) (MobiCom 23)
@@ -23,6 +25,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 ## Security
 
 ### Location Privacy
+- [https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann](https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann) (USENIX Security 24)
 - [Don't Shoot the Messenger: Localization Prevention of Satellite Internet Users](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a066/1RjEaCUhdxm) (S&P 24)
 
 ### Software Security
@@ -34,8 +37,9 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [ICARUS: Attacking Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/atc21/presentation/giuliari) (USENIX ATC 21)
 
 ### Physical Security
-- [On Detecting Deception in Space Situational Awareness](https://dl.acm.org/doi/10.1145/3433210.3453081) (Asia CCS 21)
 - [Mars Attacks! Software Protection Against Space Radiation](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_wang.pdf)(HotNets 23)
+- [On Detecting Deception in Space Situational Awareness](https://dl.acm.org/doi/10.1145/3433210.3453081) (Asia CCS 21)
+
 
 ### VSAT Security
 - [A Tale of Sea and Sky On the Security of Maritime VSAT Communications](https://ieeexplore.ieee.org/document/9152624/keywords#keywords) (S&P 20)
@@ -53,18 +57,19 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 
 ### Starlink
 - [LEO Satellite vs. Cellular Networks: Exploring the Potential for Synergistic Integration](https://dl.acm.org/doi/abs/10.1145/3624354.3630588) (CoNEXT 23)
+- [Network Characteristics of LEO Satellite Constellations: A Starlink-Based Measurement from End Users](https://ieeexplore.ieee.org/abstract/document/10228912) (INFOCOM 23)
 - [A First Look at Starlink Performance](https://dl.acm.org/doi/10.1145/3517745.3561416) (IMC 22)
 - [A Browser-side View of Starlink Connectivity](https://dl.acm.org/doi/10.1145/3517745.3561457) (IMC 22)
 - [When satellite is all you have: watching the internet from 550 ms](https://dl.acm.org/doi/abs/10.1145/3517745.3561432) (IMC 22)
-- [Network Characteristics of LEO Satellite Constellations: A Starlink-Based Measurement from End Users](https://ieeexplore.ieee.org/abstract/document/10228912) (INFOCOM 23)
+
 
 ## Earth Observation Satellites
 - [Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval](https://deepakv.web.illinois.edu/assets/papers/serval_nsdi24.pdf) (NSDI 24)
 - [Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time](https://dl.acm.org/doi/abs/10.1145/3570361.3592521) (MobiCom 23)
-- [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21)
-- [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 - [UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes](https://dl.acm.org/doi/10.1145/3570361.3613263) (Mobicom 23)
 - [FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations](https://ieeexplore.ieee.org/abstract/document/10228910) (INFOCOM 23)
+- [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21)
+- [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 
 ## Transport
 - [SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks](https://ieeexplore.ieee.org/abstract/document/10228914) (INFOCOM 23)
@@ -77,6 +82,5 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 
 ## Platform
 - [StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks](https://www.usenix.org/conference/nsdi23/presentation/lai-zeqi) (NSDI 23)
-
-## Others
 - [A community-driven approach to democratize access to satellite ground stations](https://dl.acm.org/doi/10.1145/3447993.3448630) (MobiCom 21)
+
