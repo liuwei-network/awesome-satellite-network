@@ -38,7 +38,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 ### Security
 
 #### Location Privacy
-- [https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann](https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann) (USENIX Security 24)
+- [RECORD: A RECeption-Only Region Determination Attack on LEO Satellite Users](https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann) (USENIX Security 24)
 - [Don't Shoot the Messenger: Localization Prevention of Satellite Internet Users](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a066/1RjEaCUhdxm) (S&P 24)
 
 #### Software Security
