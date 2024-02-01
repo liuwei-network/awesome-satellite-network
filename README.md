@@ -60,6 +60,7 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 
 #### Trust
 - [V'CER: Efficient Certificate Validation in Constrained Networks](https://www.usenix.org/conference/usenixsecurity22/presentation/koisser) (USENIX Security 22)
+- [Orbit-based Authentication Using TDOA Signatures in Satellite Networks](https://dl.acm.org/doi/abs/10.1145/3448300.3469132) (WiSec 21)
 
 #### Energy Attack
 - [Energy Drain Attack in Satellite Internet Constellations](https://ieeexplore.ieee.org/document/10188709) (IWQoS 23)
