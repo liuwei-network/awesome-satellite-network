@@ -66,6 +66,7 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [Energy Drain Attack in Satellite Internet Constellations](https://ieeexplore.ieee.org/document/10188709) (IWQoS 23)
 
 #### Spoofing
+- [Wireless Signal Injection Attacks on VSAT Satellite Modems](https://www.usenix.org/system/files/sec24fall-prepub-538-bisping.pdf) (USENIX Security 24)
 - [Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting](https://dl.acm.org/doi/10.1145/3576915.3623135) (CCS 23)
 - [Satellite Spoofing from A to Z: On the Requirements of Satellite Downlink Overshadowing Attacks](https://dl.acm.org/doi/abs/10.1145/3558482.3590190) (WiSec 23)
 
