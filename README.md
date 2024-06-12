@@ -20,6 +20,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 ## Full papers
 
 ### Routing/Topology
+- [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362) (MobiCom 24)
 - [A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519) (MobiCom 23)
 - [Achieving Resilient and Performance-Guaranteed Routing in Space-Terrestrial Integrated Networks](https://ieeexplore.ieee.org/abstract/document/10229104) (INFOCOM 23)
 - [Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/9796886) (INFOCOM 22)
@@ -34,6 +35,10 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Delay is Not an Option: Low Latency Routing in Space](https://dl.acm.org/doi/10.1145/3286062.3286075) (HotNets 18)
 - [Networking in Heaven as on Earth](https://dl.acm.org/doi/10.1145/3286062.3286066) (HotNets 18)
 - [Gearing up for the 21st century space race](https://dl.acm.org/doi/10.1145/3286062.3286079) (HotNets 18)
+
+### Direct-to-cell Satellite Network
+- [Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/nsdi24/presentation/liu-lixin) (NSDI 24)(Outstanding Paper Award)
+- [A Case for Stateless Mobile Core Network Functions in Space](https://dl.acm.org/doi/abs/10.1145/3544216.3544233) (SIGCOMM 22)
 
 ### Security
 
@@ -54,6 +59,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 #### Protocol Security
+- [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA) (S&P 24)
 - [VSAsTer: Uncovering Inherent Security Issues in Current VSAT System Practices](https://dl.acm.org/doi/10.1145/3643833.3656139) (WiSec 24)
 - [A Tale of Sea and Sky On the Security of Maritime VSAT Communications](https://ieeexplore.ieee.org/document/9152624/keywords#keywords) (S&P 20)
 - [Secrets in the Sky: On Privacy and Infrastructure Security in DVB-S Satellite Broadband](https://dl.acm.org/doi/10.1145/3317549.3323418) (WiSec 19)
@@ -95,6 +101,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 
 ### Transport
+- [SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications](https://dl.acm.org/doi/10.1145/3589334.3645639) (WWW 24)
+<!-- - [SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services]() -->
 - [SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks](https://ieeexplore.ieee.org/abstract/document/10228914) (INFOCOM 23)
 - [SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications](https://ieeexplore.ieee.org/document/9796887) (INFOCOM 22)
 - [Time-Varying Resource Graph Based Resource Model for Space-Terrestrial Integrated Networks](https://ieeexplore.ieee.org/document/9488855) (INFOCOM 21)
@@ -104,6 +112,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Edge Computing
+<!-- - [In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks]() -->
 - [Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis](https://arxiv.org/abs/2401.03435) (Mobicom 24)
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
 
