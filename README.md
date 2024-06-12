@@ -29,6 +29,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 - [Towards Sustainable Multi-Tier Space Networking for LEO Satellite
 Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best Paper Award Runner-up)
 - [Mobility- and Load-Adaptive Controller Placement and Assignment in LEO Satellite Networks](https://ieeexplore.ieee.org/document/9488806) (INFOCOM 21)
+- [“Internet in Space” for Terrestrial Users via Cyber-Physical Convergence](https://dl.acm.org/doi/abs/10.1145/3484266.3487375) (HotNets 21)
 - [“Internet from Space” without Inter-satellite Links](https://dl.acm.org/doi/10.1145/3422604.3425938) (HotNets 20)
 - [Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks](https://ieeexplore.ieee.org/document/9155485) (INFOCOM 20)
 - [Network topology design at 27,000 km/hour](https://dl.acm.org/doi/10.1145/3359989.3365407) (CoNEXT 19)
