@@ -2,21 +2,21 @@
 This repo collects academic papers/open-source projects/conference talks/frameworks/tools related to the research of satellite networks.
 
 ## Table of Content
-- [Full papers](https://github.com/liuwei-network/awesome-satellite-network#full-papers)
-	- [Routing/Topology](https://github.com/liuwei-network/awesome-satellite-network#routingtopology)
+- [Full papers](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#full-papers)
+	- [Routing/Topology](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#routingtopology)
 	- [Direct-to-cell Satellite Network](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#direct-to-cell-satellite-network)
-	- [Security](https://github.com/liuwei-network/awesome-satellite-network#security)
-	- [Measurement](https://github.com/liuwei-network/awesome-satellite-network#measurement)
-	- [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network#earth-observation-satellites)
-	- [Transport](https://github.com/liuwei-network/awesome-satellite-network#transport)
-	- [Edge Computing](https://github.com/liuwei-network/awesome-satellite-network#edge-computing)
-	- [Satellite IoT](https://github.com/liuwei-network/awesome-satellite-network#satellite-iot)
-	- [Hardware](https://github.com/liuwei-network/awesome-satellite-network#hardware)
-	- [Platform](https://github.com/liuwei-network/awesome-satellite-network#platform)
-- [Workshops](https://github.com/liuwei-network/awesome-satellite-network#workshops)
-- [Tutorials](https://github.com/liuwei-network/awesome-satellite-network#tutorials)
-- [Projects](https://github.com/liuwei-network/awesome-satellite-network#projects)
-- [Datasets](https://github.com/liuwei-network/awesome-satellite-network#datasets)
+	- [Security](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#security)
+	- [Measurement](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#measurement)
+	- [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#earth-observation-satellites)
+	- [Transport](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#transport)
+	- [Edge Computing](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#edge-computing)
+	- [Satellite IoT](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#satellite-iot)
+	- [Hardware](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#hardware)
+	- [Platform](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#platform)
+- [Workshops](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#workshops)
+- [Tutorials](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#tutorials)
+- [Projects](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#projects)
+- [Datasets](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#datasets)
 
 ## Full papers
 
