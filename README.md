@@ -54,9 +54,10 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 #### Protocol Security
+- [VSAsTer: Uncovering Inherent Security Issues in Current VSAT System Practices](https://dl.acm.org/doi/10.1145/3643833.3656139) (WiSec 24)
 - [A Tale of Sea and Sky On the Security of Maritime VSAT Communications](https://ieeexplore.ieee.org/document/9152624/keywords#keywords) (S&P 20)
-- [Don’t Trust Satellite Phones:
-A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/SP2012/papers/4681a128.pdf) (S&P 12)
+- [Secrets in the Sky: On Privacy and Infrastructure Security in DVB-S Satellite Broadband](https://dl.acm.org/doi/10.1145/3317549.3323418) (WiSec 19)
+- [Don’t Trust Satellite Phones: A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/SP2012/papers/4681a128.pdf) (S&P 12)
 
 #### Trust
 - [V'CER: Efficient Certificate Validation in Constrained Networks](https://www.usenix.org/conference/usenixsecurity22/presentation/koisser) (USENIX Security 22)
@@ -69,6 +70,8 @@ A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/
 - [Wireless Signal Injection Attacks on VSAT Satellite Modems](https://www.usenix.org/system/files/sec24fall-prepub-538-bisping.pdf) (USENIX Security 24)
 - [Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting](https://dl.acm.org/doi/10.1145/3576915.3623135) (CCS 23)
 - [Satellite Spoofing from A to Z: On the Requirements of Satellite Downlink Overshadowing Attacks](https://dl.acm.org/doi/abs/10.1145/3558482.3590190) (WiSec 23)
+- [GNSS spoofing detection via opportunistic IRIDIUM signals](https://dl.acm.org/doi/10.1145/3395351.3399350) (WiSec 20)
+
 
 ### Measurement
 
