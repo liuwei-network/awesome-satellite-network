@@ -4,6 +4,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 ## Table of Content
 - [Full papers](https://github.com/liuwei-network/awesome-satellite-network#full-papers)
 	- [Routing/Topology](https://github.com/liuwei-network/awesome-satellite-network#routingtopology)
+	- [Direct-to-cell Satellite Network](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#direct-to-cell-satellite-network)
 	- [Security](https://github.com/liuwei-network/awesome-satellite-network#security)
 	- [Measurement](https://github.com/liuwei-network/awesome-satellite-network#measurement)
 	- [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network#earth-observation-satellites)
