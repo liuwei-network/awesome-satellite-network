@@ -82,7 +82,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Measurement
-
+- [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) (SIGMETRICS 24)
 - [Don’t Forget the User: It’s Time to Rethink Network Measurements](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_taneja.pdf) (HotNets 23)
 - [LEO Satellite vs. Cellular Networks: Exploring the Potential for Synergistic Integration](https://dl.acm.org/doi/abs/10.1145/3624354.3630588) (CoNEXT 23)
 - [Making Sense of Constellations: Methodologies for Understanding Starlink's Scheduling Algorithms](https://dl.acm.org/doi/10.1145/3624354.3630586) (CoNEXT 23)
