@@ -45,6 +45,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 ### Security
 
 #### Location Privacy
+- [Orbital Trust and Privacy: SoK on PKI and Location Privacy Challenges in Space Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/koisser) (USENIX Security 24)
 - [RECORD: A RECeption-Only Region Determination Attack on LEO Satellite Users](https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann) (USENIX Security 24)
 - [Don't Shoot the Messenger: Localization Prevention of Satellite Internet Users](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a066/1RjEaCUhdxm) (S&P 24)
 
@@ -53,6 +54,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [SOS: Isolated Health Monitoring System to Save Our Satellites](https://dl.acm.org/doi/10.1145/3458864.3466862) (Mobisys 21)
 
 #### DDoS
+- [Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures]() (NDSS 25)
+- [StarMaze: Ring-based Attack in Satellite Internet Constellations](https://ieeexplore.ieee.org/abstract/document/10682867) (IWQoS 24)
 - [ICARUS: Attacking Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/atc21/presentation/giuliari) (USENIX ATC 21)
 
 #### Physical Security
@@ -63,6 +66,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 #### Protocol Security
 - [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA) (S&P 24)
 - [VSAsTer: Uncovering Inherent Security Issues in Current VSAT System Practices](https://dl.acm.org/doi/10.1145/3643833.3656139) (WiSec 24)
+- [QPEP: An Actionable Approach to Secure and Performant Broadband From Geostationary Orbit](https://www.ndss-symposium.org/ndss-paper/qpep-an-actionable-approach-to-secure-and-performant-broadband-from-geostationary-orbit/) (NDSS 21)
 - [A Tale of Sea and Sky On the Security of Maritime VSAT Communications](https://ieeexplore.ieee.org/document/9152624/keywords#keywords) (S&P 20)
 - [Secrets in the Sky: On Privacy and Infrastructure Security in DVB-S Satellite Broadband](https://dl.acm.org/doi/10.1145/3317549.3323418) (WiSec 19)
 - [Don’t Trust Satellite Phones: A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/SP2012/papers/4681a128.pdf) (S&P 12)
