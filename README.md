@@ -70,6 +70,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 #### Protocol Security
+- [Starshields for iOS: Navigating the Security Cosmos in Satellite Communication]() (NDSS 25)
 - [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA) (S&P 24)
 - [VSAsTer: Uncovering Inherent Security Issues in Current VSAT System Practices](https://dl.acm.org/doi/10.1145/3643833.3656139) (WiSec 24)
 - [QPEP: An Actionable Approach to Secure and Performant Broadband From Geostationary Orbit](https://www.ndss-symposium.org/ndss-paper/qpep-an-actionable-approach-to-secure-and-performant-broadband-from-geostationary-orbit/) (NDSS 21)
@@ -134,7 +135,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/10.1145/3696348.3696885) (HotNets 24)
 
 ### Edge Computing
-<!-- - [In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks]() -->
+- [In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks](https://ieeexplore.ieee.org/document/10621268) (INFOCOM 24)
 - [Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis](https://arxiv.org/abs/2401.03435) (Mobicom 24)
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
 
