@@ -165,6 +165,10 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 ## Projects 
 
+### Open-source 3GPP NTN protocol stack
+- [OpenAirinterface5G](https://gitlab.eurecom.fr/oai/openairinterface5g/-/blob/develop/doc/RUNMODEM.md#how-to-run-a-ntn-configuration) (GEO/LEO, Transparent/Regenerative) 
+- [SRSRAN](https://docs.srsran.com/projects/project/en/latest/tutorials/source/ntn/source/index.html) (GEO only)
+
 ### Simulator
 - [CosmicBeats Simulator](https://github.com/microsoft/CosmicBeats-Simulator)
 - [StarryNet](https://github.com/SpaceNetLab/StarryNet)
