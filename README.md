@@ -50,11 +50,14 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 ### Security
 
 #### Location Privacy
+- [Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b026/26hiU4FcBjy) (S&P 25)
 - [Orbital Trust and Privacy: SoK on PKI and Location Privacy Challenges in Space Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/koisser) (USENIX Security 24)
 - [RECORD: A RECeption-Only Region Determination Attack on LEO Satellite Users](https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann) (USENIX Security 24)
 - [Don't Shoot the Messenger: Localization Prevention of Satellite Internet Users](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a066/1RjEaCUhdxm) (S&P 24)
 
 #### Software Security
+- [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a990/26hiU3pZHW0) (S&P 25)
+- [Space RadSim: Binary-Agnostic Fault Injection to Evaluate Cosmic Radiation Impact on Exploit Mitigation Techniques in Space](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b009/26hiU43Jy92) (S&P 25)
 - [A Comprehensive Analysis of Security Vulnerabilities and Attacks in Satellite Modems](https://dl.acm.org/doi/abs/10.1145/3658644.3670390) (CCS 24)
 - [Space Odyssey: An Experimental Software Security Analysis of Satellites](https://jwillbold.com/paper/willbold2023spaceodyssey.pdf) (S&P 23)(Distinguished Paper Awards)
 - [SOS: Isolated Health Monitoring System to Save Our Satellites](https://dl.acm.org/doi/10.1145/3458864.3466862) (Mobisys 21)
