@@ -142,6 +142,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
 
 ### Satellite IoT
+- [SateRIoT: High-performance Ground-Space Networking for Rural IoT](https://dl.acm.org/doi/10.1145/3636534.3690659)
 - [CosMAC: Constellation-Aware Medium Access and Scheduling for IoT Satellites](https://dl.acm.org/doi/10.1145/3636534.3690657) (Mobicom 24)
 - [Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things
 ](https://deepakv.web.illinois.edu/assets/papers/spectrumize_nsdi24.pdf) (NSDI 24)
