@@ -83,7 +83,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 #### Trust
 - [Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting](https://dl.acm.org/doi/10.1145/3576915.3623135) (CCS 23)
-- [PAST-AI: Physical-Layer Authentication of Satellite Transmitters via Deep Learning](https://ieeexplore.ieee.org/document/9936663) (TIF 22)
+- [PAST-AI: Physical-Layer Authentication of Satellite Transmitters via Deep Learning](https://ieeexplore.ieee.org/document/9936663) (TIFS 22)
 - [V'CER: Efficient Certificate Validation in Constrained Networks](https://www.usenix.org/conference/usenixsecurity22/presentation/koisser) (USENIX Security 22)
 - [Orbit-based Authentication Using TDOA Signatures in Satellite Networks](https://dl.acm.org/doi/abs/10.1145/3448300.3469132) (WiSec 21)
 
