@@ -82,15 +82,17 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Don’t Trust Satellite Phones: A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/SP2012/papers/4681a128.pdf) (S&P 12)
 
 #### Trust
+- [Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting](https://dl.acm.org/doi/10.1145/3576915.3623135) (CCS 23)
+- [PAST-AI: Physical-Layer Authentication of Satellite Transmitters via Deep Learning](https://ieeexplore.ieee.org/document/9936663) (TIF 22)
 - [V'CER: Efficient Certificate Validation in Constrained Networks](https://www.usenix.org/conference/usenixsecurity22/presentation/koisser) (USENIX Security 22)
 - [Orbit-based Authentication Using TDOA Signatures in Satellite Networks](https://dl.acm.org/doi/abs/10.1145/3448300.3469132) (WiSec 21)
+
 
 #### Energy Attack
 - [Energy Drain Attack in Satellite Internet Constellations](https://ieeexplore.ieee.org/document/10188709) (IWQoS 23)
 
 #### Spoofing
 - [Wireless Signal Injection Attacks on VSAT Satellite Modems](https://www.usenix.org/system/files/sec24fall-prepub-538-bisping.pdf) (USENIX Security 24)
-- [Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting](https://dl.acm.org/doi/10.1145/3576915.3623135) (CCS 23)
 - [Satellite Spoofing from A to Z: On the Requirements of Satellite Downlink Overshadowing Attacks](https://dl.acm.org/doi/abs/10.1145/3558482.3590190) (WiSec 23)
 - [GNSS spoofing detection via opportunistic IRIDIUM signals](https://dl.acm.org/doi/10.1145/3395351.3399350) (WiSec 20)
 
@@ -142,7 +144,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
 
 ### Satellite IoT
-- [SateRIoT: High-performance Ground-Space Networking for Rural IoT](https://dl.acm.org/doi/10.1145/3636534.3690659)
+- [SateRIoT: High-performance Ground-Space Networking for Rural IoT](https://dl.acm.org/doi/10.1145/3636534.3690659) (Mobicom 24)
 - [CosMAC: Constellation-Aware Medium Access and Scheduling for IoT Satellites](https://dl.acm.org/doi/10.1145/3636534.3690657) (Mobicom 24)
 - [Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things
 ](https://deepakv.web.illinois.edu/assets/papers/spectrumize_nsdi24.pdf) (NSDI 24)
