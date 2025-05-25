@@ -110,6 +110,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Earth Observation Satellites
+- [EagleEye: Nanosatellite Constellation Design for High-Coverage](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
 - [SECO: Multi-Satellite Edge Computing Enabled Wide-Area and Real-Time Earth Observation Missions](https://ieeexplore.ieee.org/document/10621270) (INFOCOM 24)
 - [Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval](https://deepakv.web.illinois.edu/assets/papers/serval_nsdi24.pdf) (NSDI 24)
 - [Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time](https://dl.acm.org/doi/abs/10.1145/3570361.3592521) (MobiCom 23)
