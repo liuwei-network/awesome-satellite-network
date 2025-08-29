@@ -170,14 +170,14 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [StarPerf: Characterizing Network Performance for Emerging Mega-Constellations](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf) (ICNP 20)
 
 ## Workshops
-- [LEO-NET 2025 The 3st ACM Workshop on LEO Networking and Communication 2025](https://leo-net-workshop.github.io/2025/program.html) (SIGCOMM 25)
+- [3st ACM Workshop on LEO Networking and Communication 2025 (LEO-NET)](https://leo-net-workshop.github.io/2025/program.html) (SIGCOMM 25)
 - [3rd Workshop on Security of Space and Satellite Systems (SpaceSec)](https://spacesec.info) (NDSS 25)
-- [LEO-NET 2024 The 2st ACM Workshop on LEO Networking and Communication 2024](https://leo-net-workshop.github.io/2024/) (MobiCom 24)
+- [2nd ACM Workshop on LEO Networking and Communication 2024 (LEO-NET)](https://leo-net-workshop.github.io/2024/) (MobiCom 24)
 - [2nd Workshop on Security of Space and Satellite Systems (SpaceSec)](https://www.ndss-symposium.org/ndss-program/spacesec-2024/) (NDSS 24)
 - [1st Workshop on Security of Space and Satellite Systems (SpaceSec)](https://www.ndss-symposium.org/ndss-program/spacesec-2023/) (NDSS 23)
-- [LEO-NET 2023 The 1st ACM Workshop on LEO Networking and Communication 2023](https://leo-net-workshop.github.io/2023/) (MobiCom 23)
+- [1st ACM Workshop on LEO Networking and Communication 2023 (LEO-NET)](https://leo-net-workshop.github.io/2023/) (MobiCom 23)
 - [1st ACM Workshop on Satellite Networking and Computing (SatCom)](https://soar.group/satcom23/) (MobiCom 23)
-- [First Workshop on 6G Enablers: Satellite, Qualitative and Semantic Communications](https://qualitativesemantic.wordpress.com) (ICNP 23)
+- [1st Workshop on 6G Enablers: Satellite, Qualitative and Semantic Communications](https://qualitativesemantic.wordpress.com) (ICNP 23)
 
 ## Tutorials
 - [Integrated Satellite-Terrestrial Network (ISTN)](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html) (SIGCOMM 21)
