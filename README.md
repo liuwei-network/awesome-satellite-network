@@ -23,6 +23,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 ## Full papers
 
 ### Routing/Topology
+- [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525) (SIGCOMM 25)
 - [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362) (MobiCom 24)
 - [SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services](https://ieeexplore.ieee.org/document/10621390) (INFOCOM 24)
 - [Your Mega-Constellations Can Be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks](https://ieeexplore.ieee.org/document/10621083) (INFOCOM 24)
@@ -43,13 +44,15 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Gearing up for the 21st century space race](https://dl.acm.org/doi/10.1145/3286062.3286079) (HotNets 18)
 
 ### Direct-to-cell Satellite Network
+- [Direct-to-Cell Satellite Network without Satellite Navigation](https://dl.acm.org/doi/10.1145/3718958.3750522) (SIGCOMM 25)
 - [Accelerating Handover in Mobile Satellite Network](https://ieeexplore.ieee.org/document/10621115) (INFOCOM 24)
 - [Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/nsdi24/presentation/liu-lixin) (NSDI 24)(Outstanding Paper Award)
 - [A Case for Stateless Mobile Core Network Functions in Space](https://dl.acm.org/doi/abs/10.1145/3544216.3544233) (SIGCOMM 22)
 
 ### Security
 
-#### Location Privacy
+#### Location/Ranging
+- [LEO-Range: Physical Layer Design for Secure Ranging with Low Earth Orbiting Satellites](https://www.usenix.org/conference/usenixsecurity25/presentation/coppola) (USENIX Security 25)
 - [Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b026/26hiU4FcBjy) (S&P 25)
 - [Orbital Trust and Privacy: SoK on PKI and Location Privacy Challenges in Space Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/koisser) (USENIX Security 24)
 - [RECORD: A RECeption-Only Region Determination Attack on LEO Satellite Users](https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann) (USENIX Security 24)
@@ -92,6 +95,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Energy Drain Attack in Satellite Internet Constellations](https://ieeexplore.ieee.org/document/10188709) (IWQoS 23)
 
 #### Spoofing
+- [GNSS-WASP: GNSS Wide Area SPoofing](https://www.usenix.org/conference/usenixsecurity25/presentation/tibaldo) (UESNIX Security 25)
 - [Wireless Signal Injection Attacks on VSAT Satellite Modems](https://www.usenix.org/system/files/sec24fall-prepub-538-bisping.pdf) (USENIX Security 24)
 - [Satellite Spoofing from A to Z: On the Requirements of Satellite Downlink Overshadowing Attacks](https://dl.acm.org/doi/abs/10.1145/3558482.3590190) (WiSec 23)
 - [GNSS spoofing detection via opportunistic IRIDIUM signals](https://dl.acm.org/doi/10.1145/3395351.3399350) (WiSec 20)
@@ -110,7 +114,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Earth Observation Satellites
-- [EagleEye: Nanosatellite Constellation Design for High-Coverage](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
+- [DeepSpace: Super Resolution Powered Efficient and Reliable Satellite Image Data Acquistion](https://dl.acm.org/doi/10.1145/3718958.3750523) (SIGCOMM 25)
+- [SaTE: Low-Latency Traffic Engineering for Satellite Networks](https://dl.acm.org/doi/10.1145/3718958.3750524) (SIGCOMM 25)
+- [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
 - [SECO: Multi-Satellite Edge Computing Enabled Wide-Area and Real-Time Earth Observation Missions](https://ieeexplore.ieee.org/document/10621270) (INFOCOM 24)
 - [Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval](https://deepakv.web.illinois.edu/assets/papers/serval_nsdi24.pdf) (NSDI 24)
 - [Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time](https://dl.acm.org/doi/abs/10.1145/3570361.3592521) (MobiCom 23)
@@ -121,7 +127,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 
 ### Transport
+- [LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics](https://dl.acm.org/doi/10.1145/3718958.3750491) (SIGCOMM 25)
 - [Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control](https://dl.acm.org/doi/10.1145/3696348.3696867) (HotNets 24)
+- [StarCDN: Moving Content Delivery Networks to Space](https://dl.acm.org/doi/10.1145/3718958.3754345) (SIGCOMM 25)
 - [It's a bird? It's a plane? It's CDN!: Investigating Content Delivery Networks in the LEO Satellite Networks Era](https://dl.acm.org/doi/10.1145/3696348.3696879) (HotNets 24)
 - [SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications](https://dl.acm.org/doi/10.1145/3589334.3645639) (WWW 24)
 - [SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks](https://ieeexplore.ieee.org/abstract/document/10228914) (INFOCOM 23)
@@ -145,6 +153,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
 
 ### Satellite IoT
+- [B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining](https://arxiv.org/abs/2505.24140) (MobiCom 25)
 - [SateRIoT: High-performance Ground-Space Networking for Rural IoT](https://dl.acm.org/doi/10.1145/3636534.3690659) (Mobicom 24)
 - [CosMAC: Constellation-Aware Medium Access and Scheduling for IoT Satellites](https://dl.acm.org/doi/10.1145/3636534.3690657) (Mobicom 24)
 - [Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things
