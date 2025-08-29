@@ -171,7 +171,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 ## Workshops
 - [LEO-NET 2025 The 3st ACM Workshop on LEO Networking and Communication 2025](https://leo-net-workshop.github.io/2025/program.html) (SIGCOMM 25)
-- [LEO-NET 2024 The 3st ACM Workshop on LEO Networking and Communication 2024](https://leo-net-workshop.github.io/2024/) (MobiCom 24)
+- [LEO-NET 2024 The 2st ACM Workshop on LEO Networking and Communication 2024](https://leo-net-workshop.github.io/2024/) (MobiCom 24)
 - [Workshop on the Security of Space and Satellite Systems (SpaceSec)](https://www.ndss-symposium.org/ndss-program/spacesec-2024/) (NDSS 24)
 - [Workshop on Security of Space and Satellite Systems (SpaceSec)](https://www.ndss-symposium.org/ndss-program/spacesec-2023/) (NDSS 23)
 - [LEO-NET 2023 The 1st ACM Workshop on LEO Networking and Communication 2023](https://leo-net-workshop.github.io/2023/) (MobiCom 23)
