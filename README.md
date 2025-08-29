@@ -120,7 +120,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [SECO: Multi-Satellite Edge Computing Enabled Wide-Area and Real-Time Earth Observation Missions](https://ieeexplore.ieee.org/document/10621270) (INFOCOM 24)
 - [Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval](https://deepakv.web.illinois.edu/assets/papers/serval_nsdi24.pdf) (NSDI 24)
 - [Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time](https://dl.acm.org/doi/abs/10.1145/3570361.3592521) (MobiCom 23)
-- [UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes](https://dl.acm.org/doi/10.1145/3570361.3613263) (Mobicom 23)
+- [UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes](https://dl.acm.org/doi/10.1145/3570361.3613263) (MobiCom 23)
 - [FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations](https://ieeexplore.ieee.org/abstract/document/10228910) (INFOCOM 23)
 - [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21)
 - [OrbitCast: Exploiting Mega-Constellations for Low-Latency Earth Observation](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper56.pdf) (ICNP 21)
@@ -149,20 +149,20 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 ### Edge Computing
 - [In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks](https://ieeexplore.ieee.org/document/10621268) (INFOCOM 24)
-- [Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis](https://arxiv.org/abs/2401.03435) (Mobicom 24)
+- [Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis](https://arxiv.org/abs/2401.03435) (MobiCom 24)
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
 
 ### Satellite IoT
 - [B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining](https://arxiv.org/abs/2505.24140) (MobiCom 25)
-- [SateRIoT: High-performance Ground-Space Networking for Rural IoT](https://dl.acm.org/doi/10.1145/3636534.3690659) (Mobicom 24)
-- [CosMAC: Constellation-Aware Medium Access and Scheduling for IoT Satellites](https://dl.acm.org/doi/10.1145/3636534.3690657) (Mobicom 24)
+- [SateRIoT: High-performance Ground-Space Networking for Rural IoT](https://dl.acm.org/doi/10.1145/3636534.3690659) (MobiCom 24)
+- [CosMAC: Constellation-Aware Medium Access and Scheduling for IoT Satellites](https://dl.acm.org/doi/10.1145/3636534.3690657) (MobiCom 24)
 - [Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things
 ](https://deepakv.web.illinois.edu/assets/papers/spectrumize_nsdi24.pdf) (NSDI 24)
 
 ### Hardware
-- [PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication](https://dl.acm.org/doi/10.1145/3570361.3613257) (Mobicom 23)
+- [PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication](https://dl.acm.org/doi/10.1145/3570361.3613257) (MobiCom 23)
 - [Towards Dual-band Reconfigurable Metamaterial Surfaces for Satellite Networking](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_cho.pdf) (HotNets 22)
-- [Hummingbird: Energy Efficient GPS Receiver for Small Satellites](https://dl.acm.org/doi/10.1145/3372224.3380886) (Mobicom 20)
+- [Hummingbird: Energy Efficient GPS Receiver for Small Satellites](https://dl.acm.org/doi/10.1145/3372224.3380886) (MobiCom 20)
 
 ### Platform
 - [StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks](https://www.usenix.org/conference/nsdi23/presentation/lai-zeqi) (NSDI 23)
@@ -170,10 +170,12 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [StarPerf: Characterizing Network Performance for Emerging Mega-Constellations](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf) (ICNP 20)
 
 ## Workshops
+- [LEO-NET 2025 The 3st ACM Workshop on LEO Networking and Communication 2025](https://leo-net-workshop.github.io/2025/program.html) (SIGCOMM 25)
+- [LEO-NET 2024 The 3st ACM Workshop on LEO Networking and Communication 2024](https://leo-net-workshop.github.io/2024/) (MobiCom 24)
 - [Workshop on the Security of Space and Satellite Systems (SpaceSec)](https://www.ndss-symposium.org/ndss-program/spacesec-2024/) (NDSS 24)
 - [Workshop on Security of Space and Satellite Systems (SpaceSec)](https://www.ndss-symposium.org/ndss-program/spacesec-2023/) (NDSS 23)
-- [LEO-NET 2023 The 1st ACM Workshop on LEO Networking and Communication 2023](https://leo-net-workshop.github.io/2023/) (Mobicom 23)
-- [1st ACM Workshop on Satellite Networking and Computing (SatCom)](https://soar.group/satcom23/) (Mobicom 23)
+- [LEO-NET 2023 The 1st ACM Workshop on LEO Networking and Communication 2023](https://leo-net-workshop.github.io/2023/) (MobiCom 23)
+- [1st ACM Workshop on Satellite Networking and Computing (SatCom)](https://soar.group/satcom23/) (MobiCom 23)
 - [First Workshop on 6G Enablers: Satellite, Qualitative and Semantic Communications](https://qualitativesemantic.wordpress.com) (ICNP 23)
 
 ## Tutorials
