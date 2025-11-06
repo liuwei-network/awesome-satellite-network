@@ -76,6 +76,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 #### Protocol Security
+- [Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites](https://blog.fdik.org/2025-10/dontlookup_ccs25_fullpaper.pdf) (CCS 2025) 
 - [Starshields for iOS: Navigating the Security Cosmos in Satellite Communication](https://www.ndss-symposium.org/ndss-paper/starshields-for-ios-navigating-the-security-cosmos-in-satellite-communication/) (NDSS 25)
 - [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA) (S&P 24)
 - [VSAsTer: Uncovering Inherent Security Issues in Current VSAT System Practices](https://dl.acm.org/doi/10.1145/3643833.3656139) (WiSec 24)
@@ -102,6 +103,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Measurement
+- [A Multifaceted Look at Starlink Performance](https://dl.acm.org/doi/abs/10.1145/3589334.3645328) (WWW 24)
 - [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) (SIGMETRICS 24)
 - [Don’t Forget the User: It’s Time to Rethink Network Measurements](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_taneja.pdf) (HotNets 23)
 - [LEO Satellite vs. Cellular Networks: Exploring the Potential for Synergistic Integration](https://dl.acm.org/doi/abs/10.1145/3624354.3630588) (CoNEXT 23)
@@ -127,6 +129,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 
 ### Transport
+- [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing] (MobiCom 25)
 - [LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics](https://dl.acm.org/doi/10.1145/3718958.3750491) (SIGCOMM 25)
 - [Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control](https://dl.acm.org/doi/10.1145/3696348.3696867) (HotNets 24)
 - [StarCDN: Moving Content Delivery Networks to Space](https://dl.acm.org/doi/10.1145/3718958.3754345) (SIGCOMM 25)
