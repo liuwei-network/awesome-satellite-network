@@ -15,6 +15,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 	- [Satellite IoT](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#satellite-iot)
 	- [Hardware](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#hardware)
 	- [Platform](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#platform)
+- [Full papers by conference](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#full-papers-by-conference)
 - [Workshops](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#workshops)
 - [Tutorials](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#tutorials)
 - [Projects](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#projects)
@@ -24,6 +25,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 
 ### Routing/Topology
 - [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525) (SIGCOMM 25)
+- [NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/11044563) (INFOCOM 25)
 - [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362) (MobiCom 24)
 - [SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services](https://ieeexplore.ieee.org/document/10621390) (INFOCOM 24)
 - [Your Mega-Constellations Can Be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks](https://ieeexplore.ieee.org/document/10621083) (INFOCOM 24)
@@ -132,6 +134,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 ### Transport
 - [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing] (MobiCom 25)
 - [LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics](https://dl.acm.org/doi/10.1145/3718958.3750491) (SIGCOMM 25)
+- [Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching](https://dl.acm.org/doi/10.1145/3696410.3714789) (WWW 25)
 - [Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control](https://dl.acm.org/doi/10.1145/3696348.3696867) (HotNets 24)
 - [StarCDN: Moving Content Delivery Networks to Space](https://dl.acm.org/doi/10.1145/3718958.3754345) (SIGCOMM 25)
 - [It's a bird? It's a plane? It's CDN!: Investigating Content Delivery Networks in the LEO Satellite Networks Era](https://dl.acm.org/doi/10.1145/3696348.3696879) (HotNets 24)
@@ -222,7 +225,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 <details>
 <summary><strong>INFOCOM</strong></summary>
-
+- [NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/11044563) (INFOCOM 25)
 - [SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services](https://ieeexplore.ieee.org/document/10621390) (INFOCOM 24) 
 - [Your Mega-Constellations Can Be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks](https://ieeexplore.ieee.org/document/10621083) (INFOCOM 24) 
 - [Accelerating Handover in Mobile Satellite Network](https://ieeexplore.ieee.org/document/10621115) (INFOCOM 24) 
@@ -367,6 +370,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>WWW</strong></summary>
 
+- [Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching](https://dl.acm.org/doi/10.1145/3696410.3714789) (WWW 25)
 - [A Multifaceted Look at Starlink Performance](https://dl.acm.org/doi/abs/10.1145/3589334.3645328) (WWW 24) 
 - [SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications](https://dl.acm.org/doi/10.1145/3589334.3645639) (WWW 24) 
 
