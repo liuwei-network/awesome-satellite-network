@@ -156,6 +156,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/10.1145/3696348.3696885) (HotNets 24)
 
 ### Edge Computing
+
+- [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
 - [In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks](https://ieeexplore.ieee.org/document/10621268) (INFOCOM 24)
 - [Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis](https://arxiv.org/abs/2401.03435) (MobiCom 24)
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
@@ -381,15 +383,13 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>Other</strong></summary>
 
-
+- [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
 - [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) (SIGMETRICS 24)
 - [PAST-AI: Physical-Layer Authentication of Satellite Transmitters via Deep Learning](https://ieeexplore.ieee.org/document/9936663) (TIFS 22)
 - [SOS: Isolated Health Monitoring System to Save Our Satellites](https://dl.acm.org/doi/10.1145/3458864.3466862) (MobiSys 21)
 - [ICARUS: Attacking Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/atc21/presentation/giuliari) (USENIX ATC 21)
 - [On Detecting Deception in Space Situational Awareness](https://dl.acm.org/doi/10.1145/3433210.3453081) (Asia CCS 21)
-   <!-- already under S&P; keep only if you want duplicates removed -->
-<!-- 如果你不想有“Other”分组，可以删除这个整个 <details> 块 -->
 
 </details>
 
