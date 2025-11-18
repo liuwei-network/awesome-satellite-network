@@ -10,7 +10,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 	- [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#earth-observation-satellites)
 	- [Transport](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#transport)
 	- [Physical Layer](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#physical-layer)
-	- [Design Principles/Architecture](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#design-principles-architecture)
+	- [Design Principles/Architecture](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#design-principlesarchitecture)
 	- [Edge Computing](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#edge-computing)
 	- [Satellite IoT](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#satellite-iot)
 	- [Hardware](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#hardware)
