@@ -2,7 +2,7 @@
 This repo collects academic papers/open-source projects/conference talks/frameworks/tools related to the research of satellite networks.
 
 ## Table of Content
-- [Full papers](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#full-papers)
+- [Full papers by topic](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#full-papers-by-topic)
 	- [Routing/Topology](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#routingtopology)
 	- [Direct-to-cell Satellite Network](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#direct-to-cell-satellite-network)
 	- [Security](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#security)
@@ -26,6 +26,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 ### Routing/Topology
 - [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525) (SIGCOMM 25)
 - [NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/11044563) (INFOCOM 25)
+- [STARVERI: Efficient and Accurate Verification for Risk-Avoidance Routing in Leo Satellite Networks](https://ieeexplore.ieee.org/document/10858518) (ICNP 24)
 - [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362) (MobiCom 24)
 - [SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services](https://ieeexplore.ieee.org/document/10621390) (INFOCOM 24)
 - [Your Mega-Constellations Can Be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks](https://ieeexplore.ieee.org/document/10621083) (INFOCOM 24)
@@ -105,6 +106,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Measurement
+- [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://dl.acm.org/doi/10.1145/3726854.3727268) (SIGMETRICS 25)
 - [Anyone, Anywhere, not Everyone, Everywhere: Starlink Doesn’t End the Digital Divide](https://conferences.sigcomm.org/hotnets/2025/papers/hotnets25-final35.pdf) (HotNets 25)
 - [A Multifaceted Look at Starlink Performance](https://dl.acm.org/doi/abs/10.1145/3589334.3645328) (WWW 24)
 - [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) (SIGMETRICS 24)
@@ -127,6 +129,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time](https://dl.acm.org/doi/abs/10.1145/3570361.3592521) (MobiCom 23)
 - [UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes](https://dl.acm.org/doi/10.1145/3570361.3613263) (MobiCom 23)
 - [FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations](https://ieeexplore.ieee.org/abstract/document/10228910) (INFOCOM 23)
+- [Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests](https://dl.acm.org/doi/10.1145/3485447.3512149) (WWW 22)
 - [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21)
 - [OrbitCast: Exploiting Mega-Constellations for Low-Latency Earth Observation](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper56.pdf) (ICNP 21)
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
@@ -142,6 +145,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks](https://ieeexplore.ieee.org/abstract/document/10228914) (INFOCOM 23)
 - [SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications](https://ieeexplore.ieee.org/document/9796887) (INFOCOM 22)
 - [Time-Varying Resource Graph Based Resource Model for Space-Terrestrial Integrated Networks](https://ieeexplore.ieee.org/document/9488855) (INFOCOM 21)
+- [AUTO: Adaptive Congestion Control Based on Multi-Objective Reinforcement Learning for the Satellite-Ground Integrated Network](https://www.usenix.org/conference/atc21/presentation/li-xu) (USENIX ATC 21)
 - [Cooperatively Constructing Cost-Effective Content Distribution Networks upon Emerging Low Earth Orbit Satellites and Clouds
 ](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper55.pdf) (ICNP 21)
 - [Lightweight Retransmission for Random Access in Satellite Networks](https://ieeexplore.ieee.org/document/8485806) (INFOCOM 18)
@@ -151,6 +155,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 ### Design Principles/Architecture
 - [Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations](https://conferences.sigcomm.org/hotnets/2025/papers/hotnets25-final233.pdf) (HotNets 25)
+- [SatFlow: Scalable Network Planning for LEO Mega-Constellations](https://ieeexplore.ieee.org/document/10858566) (ICNP 24)
 - [A Road map for the Democratization of Space-Based Communications](https://dl.acm.org/doi/10.1145/3696348.3696866) (HotNets 24)
 - [A Call for Decentralized Satellite Networks](https://dl.acm.org/doi/10.1145/3696348.3696896) (HotNets 24)
 - [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/10.1145/3696348.3696885) (HotNets 24)
@@ -355,6 +360,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>ICNP</strong></summary>
 
+- [SatFlow: Scalable Network Planning for LEO Mega-Constellations](https://ieeexplore.ieee.org/document/10858566) (ICNP 24)
+- [STARVERI: Efficient and Accurate Verification for Risk-Avoidance Routing in Leo Satellite Networks](https://ieeexplore.ieee.org/document/10858518) (ICNP 24)
 - [Cooperatively Constructing Cost-Effective Content Distribution Networks upon Emerging Low Earth Orbit Satellites and Clouds](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper55.pdf) (ICNP 21) 
 - [OrbitCast: Exploiting Mega-Constellations for Low-Latency Earth Observation](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper56.pdf) (ICNP 21) 
 - [StarPerf: Characterizing Network Performance for Emerging Mega-Constellations](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf) (ICNP 20) 
@@ -375,7 +382,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching](https://dl.acm.org/doi/10.1145/3696410.3714789) (WWW 25)
 - [A Multifaceted Look at Starlink Performance](https://dl.acm.org/doi/abs/10.1145/3589334.3645328) (WWW 24) 
 - [SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications](https://dl.acm.org/doi/10.1145/3589334.3645639) (WWW 24) 
-
+- [Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests](https://dl.acm.org/doi/10.1145/3485447.3512149) (WWW 22)
 </details>
 
 
@@ -383,6 +390,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>Other</strong></summary>
 
+- [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://dl.acm.org/doi/10.1145/3726854.3727268) (SIGMETRICS 25)
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
 - [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) (SIGMETRICS 24)
@@ -390,6 +398,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [SOS: Isolated Health Monitoring System to Save Our Satellites](https://dl.acm.org/doi/10.1145/3458864.3466862) (MobiSys 21)
 - [ICARUS: Attacking Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/atc21/presentation/giuliari) (USENIX ATC 21)
 - [On Detecting Deception in Space Situational Awareness](https://dl.acm.org/doi/10.1145/3433210.3453081) (Asia CCS 21)
+- [AUTO: Adaptive Congestion Control Based on Multi-Objective Reinforcement Learning for the Satellite-Ground Integrated Network](https://www.usenix.org/conference/atc21/presentation/li-xu) (USENIX ATC 21)
 
 </details>
 
