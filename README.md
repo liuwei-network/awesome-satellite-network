@@ -21,7 +21,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 - [Projects](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#projects)
 - [Datasets](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#datasets)
 
-## Full papers
+## Full papers by topic
 
 ### Routing/Topology
 - [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525) (SIGCOMM 25)
