@@ -196,7 +196,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [SaTE: Low-Latency Traffic Engineering for Satellite Networks](https://dl.acm.org/doi/10.1145/3718958.3750524) (SIGCOMM 25) 
 - [LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics](https://dl.acm.org/doi/10.1145/3718958.3750491) (SIGCOMM 25) 
 - [StarCDN: Moving Content Delivery Networks to Space](https://dl.acm.org/doi/10.1145/3718958.3754345) (SIGCOMM 25) 
-- [A Case for Stateless Mobile Core Network Functions in Space](https://dl.acm.org/doi/abs/10.1145/3544216.3544233) (SIGCOMM 22) — 
+- [A Case for Stateless Mobile Core Network Functions in Space](https://dl.acm.org/doi/abs/10.1145/3544216.3544233) (SIGCOMM 22)  
 - [L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3452296.3472932) (SIGCOMM 21) 
 
 </details>
@@ -232,6 +232,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 <details>
 <summary><strong>INFOCOM</strong></summary>
+
 - [NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/11044563) (INFOCOM 25)
 - [SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services](https://ieeexplore.ieee.org/document/10621390) (INFOCOM 24) 
 - [Your Mega-Constellations Can Be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks](https://ieeexplore.ieee.org/document/10621083) (INFOCOM 24) 
