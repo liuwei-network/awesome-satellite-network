@@ -106,6 +106,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Measurement
+- [Vivisecting Starlink Throughput: Measurement and Prediction](https://dl.acm.org/doi/abs/10.1145/3768971) (CoNext 25)
 - [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://dl.acm.org/doi/10.1145/3726854.3727268) (SIGMETRICS 25)
 - [Anyone, Anywhere, not Everyone, Everywhere: Starlink Doesn’t End the Digital Divide](https://conferences.sigcomm.org/hotnets/2025/papers/hotnets25-final35.pdf) (HotNets 25)
 - [A Multifaceted Look at Starlink Performance](https://dl.acm.org/doi/abs/10.1145/3589334.3645328) (WWW 24)
