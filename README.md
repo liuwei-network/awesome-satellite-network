@@ -107,6 +107,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 ### Measurement
 - [Vivisecting Starlink Throughput: Measurement and Prediction](https://dl.acm.org/doi/abs/10.1145/3768971) (CoNext 25)
+- [Assessing LEO Satellite Networks for National Emergency Failover](https://dl.acm.org/doi/10.1145/3730567.3764482) (IMC 25)
+- [From GEO to LEO: First Look Into Starlink In-Flight Connectivity](https://dl.acm.org/doi/10.1145/3730567.3764491) (IMC 25)
+- [Satellite IoT in Practice: A First Measurement Study on Network Availability, Performance, and Costs](https://dl.acm.org/doi/10.1145/3730567.3764496) (IMC 25)
 - [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://dl.acm.org/doi/10.1145/3726854.3727268) (SIGMETRICS 25)
 - [Anyone, Anywhere, not Everyone, Everywhere: Starlink Doesn’t End the Digital Divide](https://conferences.sigcomm.org/hotnets/2025/papers/hotnets25-final35.pdf) (HotNets 25)
 - [A Multifaceted Look at Starlink Performance](https://dl.acm.org/doi/abs/10.1145/3589334.3645328) (WWW 24)
@@ -352,6 +355,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>CoNEXT</strong></summary>
 
+- [Vivisecting Starlink Throughput: Measurement and Prediction](https://dl.acm.org/doi/abs/10.1145/3768971) (CoNext 25)
 - [LEO Satellite vs. Cellular Networks: Exploring the Potential for Synergistic Integration](https://dl.acm.org/doi/abs/10.1145/3624354.3630588) (CoNEXT 23) 
 - [Making Sense of Constellations: Methodologies for Understanding Starlink's Scheduling Algorithms](https://dl.acm.org/doi/10.1145/3624354.3630586) (CoNEXT 23) 
 - [Dissecting the Performance of Satellite Network Operators](https://dl.acm.org/doi/10.1145/3629137) (CoNEXT 23) 
@@ -373,6 +377,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>IMC</strong></summary>
 
+- [Assessing LEO Satellite Networks for National Emergency Failover](https://dl.acm.org/doi/10.1145/3730567.3764482) (IMC 25)
+- [From GEO to LEO: First Look Into Starlink In-Flight Connectivity](https://dl.acm.org/doi/10.1145/3730567.3764491) (IMC 25)
+- [Satellite IoT in Practice: A First Measurement Study on Network Availability, Performance, and Costs](https://dl.acm.org/doi/10.1145/3730567.3764496) (IMC 25)
 - [A First Look at Starlink Performance](https://dl.acm.org/doi/10.1145/3517745.3561416) (IMC 22) 
 - [A Browser-side View of Starlink Connectivity](https://dl.acm.org/doi/10.1145/3517745.3561457) (IMC 22)
 - [When satellite is all you have: watching the internet from 550 ms](https://dl.acm.org/doi/abs/10.1145/3517745.3561432) (IMC 22) 
