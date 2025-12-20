@@ -220,7 +220,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>MobiCom</strong></summary>
 
-- [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing]() (MobiCom 25) 
+- [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing](https://dl.acm.org/doi/epdf/10.1145/3680207.3765249) (MobiCom 25) 
 - [B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining](https://arxiv.org/abs/2505.24140) (MobiCom 25) 
 - [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362) (MobiCom 24) 
 - [SateRIoT: High-performance Ground-Space Networking for Rural IoT](https://dl.acm.org/doi/10.1145/3636534.3690659) (MobiCom 24) 
