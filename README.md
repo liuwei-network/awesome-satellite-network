@@ -48,8 +48,11 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 ### Direct-to-cell Satellite Network
 - [Direct-to-Cell Satellite Network without Satellite Navigation](https://dl.acm.org/doi/10.1145/3718958.3750522) (SIGCOMM 25)
+- [Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b026/26hiU4FcBjy) (S&P 25) 
+- [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA) (S&P 24)
 - [Accelerating Handover in Mobile Satellite Network](https://ieeexplore.ieee.org/document/10621115) (INFOCOM 24)
 - [Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/nsdi24/presentation/liu-lixin) (NSDI 24)(Outstanding Paper Award)
+- [Accelerating Handover in Mobile Satellite Network](https://ieeexplore.ieee.org/document/10621115) (INFOCOM 24) 
 - [A Case for Stateless Mobile Core Network Functions in Space](https://dl.acm.org/doi/abs/10.1145/3544216.3544233) (SIGCOMM 22)
 
 ### Security
