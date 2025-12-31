@@ -11,6 +11,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 	- [Transport](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#transport)
 	- [Physical Layer](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#physical-layer)
 	- [Design Principles/Architecture](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#design-principlesarchitecture)
+	- [Multimedia](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#multimedia)
 	- [Edge Computing](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#edge-computing)
 	- [Satellite IoT](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#satellite-iot)
 	- [Hardware](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#hardware)
@@ -174,6 +175,16 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks](https://ieeexplore.ieee.org/document/10621268) (INFOCOM 24)
 - [Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis](https://arxiv.org/abs/2401.03435) (MobiCom 24)
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) (HotNets 20)
+
+
+### Multimedia
+- [Meta-Knowledge Path Augmentation for Multi-Hop Reasoning on Satellite Commonsense Multi-Modal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3746027.3754957) (MM 25)
+- [A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation](https://dl.acm.org/doi/abs/10.1145/3746027.3755299) (MM 25)
+- [CitySculpt: 3D City Generation from Satellite Imagery with UV Diffusion](https://dl.acm.org/doi/10.1145/3746027.3755143) (MM 25)
+- [Robust Live Streaming over LEO Satellite Constellations: Measurement, Analysis, and Handover-Aware Adaptation](https://dl.acm.org/doi/abs/10.1145/3664647.3680712) (MM 24)
+- [UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://dl.acm.org/doi/10.1145/3664647.3680604) (MM 24)
+- [Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery](https://dl.acm.org/doi/10.1145/3503161.3548102) (MM 22)
+- [Dual Adversarial Network for Unsupervised Ground/Satellite-to-Aerial Scene Adaptation](https://dl.acm.org/doi/10.1145/3394171.3413893) (MM 20)
 
 ### Satellite IoT
 - [B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining](https://arxiv.org/abs/2505.24140) (MobiCom 25)
@@ -398,6 +409,17 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests](https://dl.acm.org/doi/10.1145/3485447.3512149) (WWW 22)
 </details>
 
+<details>
+<summary><strong>MM</strong></summary>
+
+- [Meta-Knowledge Path Augmentation for Multi-Hop Reasoning on Satellite Commonsense Multi-Modal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3746027.3754957) (MM 25)
+- [A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation](https://dl.acm.org/doi/abs/10.1145/3746027.3755299) (MM 25)
+- [CitySculpt: 3D City Generation from Satellite Imagery with UV Diffusion](https://dl.acm.org/doi/10.1145/3746027.3755143) (MM 25)
+- [Robust Live Streaming over LEO Satellite Constellations: Measurement, Analysis, and Handover-Aware Adaptation](https://dl.acm.org/doi/abs/10.1145/3664647.3680712) (MM 24)
+- [UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://dl.acm.org/doi/10.1145/3664647.3680604) (MM 24)
+- [Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery](https://dl.acm.org/doi/10.1145/3503161.3548102) (MM 22)
+- [Dual Adversarial Network for Unsupervised Ground/Satellite-to-Aerial Scene Adaptation](https://dl.acm.org/doi/10.1145/3394171.3413893) (MM 20)
+</details>
 
 
 <details>
@@ -405,8 +427,6 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 - [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://dl.acm.org/doi/10.1145/3726854.3727268) (SIGMETRICS 25)
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
-- [A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation](https://dl.acm.org/doi/abs/10.1145/3746027.3755299) (MM 25)
-- [Robust Live Streaming over LEO Satellite Constellations: Measurement, Analysis, and Handover-Aware Adaptation](https://dl.acm.org/doi/abs/10.1145/3664647.3680712) (MM 24)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
 - [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) (SIGMETRICS 24)
 - [PAST-AI: Physical-Layer Authentication of Satellite Transmitters via Deep Learning](https://ieeexplore.ieee.org/document/9936663) (TIFS 22)
