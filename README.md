@@ -200,6 +200,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Hummingbird: Energy Efficient GPS Receiver for Small Satellites](https://dl.acm.org/doi/10.1145/3372224.3380886) (MobiCom 20)
 
 ### Platform
+- [LEOCraft: Towards Designing Performant LEO Networks](https://www.usenix.org/conference/atc25/presentation/basak) (USENIX ATC 25)
 - [StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks](https://www.usenix.org/conference/nsdi23/presentation/lai-zeqi) (NSDI 23)
 - [A community-driven approach to democratize access to satellite ground stations](https://dl.acm.org/doi/10.1145/3447993.3448630) (MobiCom 21)
 - [StarPerf: Characterizing Network Performance for Emerging Mega-Constellations](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf) (ICNP 20)
@@ -427,6 +428,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>Other</strong></summary>
 
+- [LEOCraft: Towards Designing Performant LEO Networks](https://www.usenix.org/conference/atc25/presentation/basak) (USENIX ATC 25)
 - [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://dl.acm.org/doi/10.1145/3726854.3727268) (SIGMETRICS 25)
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
