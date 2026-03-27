@@ -110,8 +110,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Measurement
-- [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://www.sigmetrics.org/sigmetrics2026/accepted.html) (SIGMETRICS 26)
-- [A Comprehensive Study of Satellite Network Performance During Severe or Extreme Geomagnetic Storms over 1.5 Years (May 2024 - Oct 2025)](https://www.sigmetrics.org/sigmetrics2026/accepted.html) (SIGMETRICS 26)
+- [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) (SIGMETRICS 26)
+- [A Comprehensive Study of Satellite Network Performance During Severe or Extreme Geomagnetic Storms over 1.5 Years (May 2024 - Oct 2025)](https://dl.acm.org/doi/10.1145/3788084) (SIGMETRICS 26)
 - [Exploring the 5G Digital Divide in the Non-Contiguous US: LEO Satellites to the Rescue?](https://dl.acm.org/doi/10.1145/3771568) (SIGMETRICS 26)
 - [Vivisecting Starlink Throughput: Measurement and Prediction](https://dl.acm.org/doi/abs/10.1145/3768971) (CoNext 25)
 - [Assessing LEO Satellite Networks for National Emergency Failover](https://dl.acm.org/doi/10.1145/3730567.3764482) (IMC 25)
@@ -432,8 +432,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>SIGMETRICS</strong></summary>
 
-- [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://www.sigmetrics.org/sigmetrics2026/accepted.html) (SIGMETRICS 26)
-- [A Comprehensive Study of Satellite Network Performance During Severe or Extreme Geomagnetic Storms over 1.5 Years (May 2024 - Oct 2025)](https://www.sigmetrics.org/sigmetrics2026/accepted.html) (SIGMETRICS 26)
+- [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) (SIGMETRICS 26)
+- [A Comprehensive Study of Satellite Network Performance During Severe or Extreme Geomagnetic Storms over 1.5 Years (May 2024 - Oct 2025)](https://dl.acm.org/doi/10.1145/3788084) (SIGMETRICS 26)
 - [Exploring the 5G Digital Divide in the Non-Contiguous US: LEO Satellites to the Rescue?](https://dl.acm.org/doi/10.1145/3771568) (SIGMETRICS 26)
 - [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://dl.acm.org/doi/10.1145/3726854.3727268) (SIGMETRICS 25)
 - [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) (SIGMETRICS 24)
