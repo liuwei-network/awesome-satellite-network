@@ -85,7 +85,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 #### Protocol Security
-- [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) (NINeS 2026)
+- [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) (NINeS 26)
 - [Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites](https://blog.fdik.org/2025-10/dontlookup_ccs25_fullpaper.pdf) (CCS 2025) 
 - [Starshields for iOS: Navigating the Security Cosmos in Satellite Communication](https://www.ndss-symposium.org/ndss-paper/starshields-for-ios-navigating-the-security-cosmos-in-satellite-communication/) (NDSS 25)
 - [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA) (S&P 24)
@@ -112,9 +112,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 ### Measurement
 - [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) (SIGMETRICS 26)
-- [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) (NINeS 2026)
 - [A Comprehensive Study of Satellite Network Performance During Severe or Extreme Geomagnetic Storms over 1.5 Years (May 2024 - Oct 2025)](https://dl.acm.org/doi/10.1145/3788084) (SIGMETRICS 26)
 - [Exploring the 5G Digital Divide in the Non-Contiguous US: LEO Satellites to the Rescue?](https://dl.acm.org/doi/10.1145/3771568) (SIGMETRICS 26)
+- [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) (NINeS 26)
 - [Vivisecting Starlink Throughput: Measurement and Prediction](https://dl.acm.org/doi/abs/10.1145/3768971) (CoNext 25)
 - [Assessing LEO Satellite Networks for National Emergency Failover](https://dl.acm.org/doi/10.1145/3730567.3764482) (IMC 25)
 - [From GEO to LEO: First Look Into Starlink In-Flight Connectivity](https://dl.acm.org/doi/10.1145/3730567.3764491) (IMC 25)
@@ -136,7 +136,6 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 ### Earth Observation Satellites
 - [DeepSpace: Super Resolution Powered Efficient and Reliable Satellite Image Data Acquistion](https://dl.acm.org/doi/10.1145/3718958.3750523) (SIGCOMM 25)
-- [SaTE: Low-Latency Traffic Engineering for Satellite Networks](https://dl.acm.org/doi/10.1145/3718958.3750524) (SIGCOMM 25)
 - [A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation](https://dl.acm.org/doi/abs/10.1145/3746027.3755299) (MM 25)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
 - [SECO: Multi-Satellite Edge Computing Enabled Wide-Area and Real-Time Earth Observation Missions](https://ieeexplore.ieee.org/document/10621270) (INFOCOM 24)
@@ -150,7 +149,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 
 ### Transport
-- [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing] (MobiCom 25)
+- [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing](https://dl.acm.org/doi/10.1145/3680207.3765249) (MobiCom 25)
+- [SaTE: Low-Latency Traffic Engineering for Satellite Networks](https://dl.acm.org/doi/10.1145/3718958.3750524) (SIGCOMM 25)
 - [LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics](https://dl.acm.org/doi/10.1145/3718958.3750491) (SIGCOMM 25)
 - [Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching](https://dl.acm.org/doi/10.1145/3696410.3714789) (WWW 25)
 - [Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control](https://dl.acm.org/doi/10.1145/3696348.3696867) (HotNets 24)
@@ -169,7 +169,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [From Foe to Friend: The Surprising Turn of Mega Constellations in Radio Astronomy](https://dl.acm.org/doi/10.1145/3696348.3696863) (HotNets 24)
 
 ### Design Principles/Architecture
-- [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) (NINeS 2026)
+- [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) (NINeS 26)
 - [Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations](https://conferences.sigcomm.org/hotnets/2025/papers/hotnets25-final233.pdf) (HotNets 25)
 - [SatFlow: Scalable Network Planning for LEO Mega-Constellations](https://ieeexplore.ieee.org/document/10858566) (ICNP 24)
 - [A Road map for the Democratization of Space-Based Communications](https://dl.acm.org/doi/10.1145/3696348.3696866) (HotNets 24)
@@ -448,9 +448,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>Other</strong></summary>
 
-- [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) (NINeS 2026)
-- [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) (NINeS 2026)
-- [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) (NINeS 2026)
+- [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) (NINeS 26)
+- [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) (NINeS 26)
+- [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) (NINeS 26)
 - [LEOCraft: Towards Designing Performant LEO Networks](https://www.usenix.org/conference/atc25/presentation/basak) (USENIX ATC 25)
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
