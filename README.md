@@ -167,6 +167,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Lightweight Retransmission for Random Access in Satellite Networks](https://ieeexplore.ieee.org/document/8485806) (INFOCOM 18)
 
 ### Physical Layer
+- [Pinpointing transmitting LEO satellites from a single passive array](https://connectedsystemslab.github.io/starloc/assets/Starloc_mobisys_2026.pdf) (MobiSys 26)
 - [From Foe to Friend: The Surprising Turn of Mega Constellations in Radio Astronomy](https://dl.acm.org/doi/10.1145/3696348.3696863) (HotNets 24)
 
 ### Design Principles/Architecture
@@ -202,6 +203,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 ](https://deepakv.web.illinois.edu/assets/papers/spectrumize_nsdi24.pdf) (NSDI 24)
 
 ### Hardware
+- [SARLink: Satellite Backscatter Connectivity using Synthetic Aperture Radar](https://dl.acm.org/doi/10.1145/3715014.3722061) (SenSys 25)
 - [PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication](https://dl.acm.org/doi/10.1145/3570361.3613257) (MobiCom 23)
 - [Towards Dual-band Reconfigurable Metamaterial Surfaces for Satellite Networking](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_cho.pdf) (HotNets 22)
 - [Hummingbird: Energy Efficient GPS Receiver for Small Satellites](https://dl.acm.org/doi/10.1145/3372224.3380886) (MobiCom 20)
@@ -450,10 +452,12 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>Other</strong></summary>
 
+- [Pinpointing transmitting LEO satellites from a single passive array](https://connectedsystemslab.github.io/starloc/assets/Starloc_mobisys_2026.pdf) (MobiSys 26)
 - [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) (NINeS 26)
 - [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) (NINeS 26)
 - [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) (NINeS 26)
 - [LEOCraft: Towards Designing Performant LEO Networks](https://www.usenix.org/conference/atc25/presentation/basak) (USENIX ATC 25)
+- [SARLink: Satellite Backscatter Connectivity using Synthetic Aperture Radar](https://dl.acm.org/doi/10.1145/3715014.3722061) (SenSys 25)
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
 - [PAST-AI: Physical-Layer Authentication of Satellite Transmitters via Deep Learning](https://ieeexplore.ieee.org/document/9936663) (TIFS 22)
