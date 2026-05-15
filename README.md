@@ -7,7 +7,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 	- [Direct-to-cell Satellite Network](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#direct-to-cell-satellite-network)
 	- [Security](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#security)
 	- [Measurement](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#measurement)
-	- [Earth Observation Satellites](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#earth-observation-satellites)
+	- [Sensing](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#sensing)
 	- [Transport](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#transport)
 	- [Physical Layer](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#physical-layer)
 	- [Design Principles/Architecture](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#design-principlesarchitecture)
@@ -49,6 +49,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Gearing up for the 21st century space race](https://dl.acm.org/doi/10.1145/3286062.3286079) (HotNets 18)
 
 ### Direct-to-cell Satellite Network
+- [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) (SIGMETRICS 26)
 - [A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments, and Insights](https://dl.acm.org/doi/abs/10.1145/3769001) (CoNEXT 25)
 - [Direct-to-Cell Satellite Network without Satellite Navigation](https://dl.acm.org/doi/10.1145/3718958.3750522) (SIGCOMM 25)
 - [Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b026/26hiU4FcBjy) (S&P 25) 
@@ -111,8 +112,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ### Measurement
-- [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) (SIGMETRICS 26)
 - [Starlink in the Wild: Multi-Perspective Measurements via DNS](https://dl.acm.org/doi/abs/10.1145/3774904.3792366) (WWW 26)
+- [Investigating Web Content Delivery Performance over Starlink](https://dl.acm.org/doi/abs/10.1145/3774904.3792227) (WWW 26)
+- [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) (SIGMETRICS 26)
 - [A Comprehensive Study of Satellite Network Performance During Severe or Extreme Geomagnetic Storms over 1.5 Years (May 2024 - Oct 2025)](https://dl.acm.org/doi/10.1145/3788084) (SIGMETRICS 26)
 - [Exploring the 5G Digital Divide in the Non-Contiguous US: LEO Satellites to the Rescue?](https://dl.acm.org/doi/10.1145/3771568) (SIGMETRICS 26)
 - [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) (NINeS 26)
@@ -135,7 +137,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [When satellite is all you have: watching the internet from 550 ms](https://dl.acm.org/doi/abs/10.1145/3517745.3561432) (IMC 22)
 
 
-### Earth Observation Satellites
+### Sensing
+- [Exploring LEO Satellite Networks for Continuous Monitoring and Dynamic Tracking](https://dl.acm.org/doi/10.1145/3774906.3802766) (SenSys 26)
+- [Enabling Near-realtime Remote Sensing via Satellite–Ground Collaboration of Large Vision–Language Models](https://dl.acm.org/doi/10.1145/3774906.3800497) (SenSys 26)
 - [DeepSpace: Super Resolution Powered Efficient and Reliable Satellite Image Data Acquistion](https://dl.acm.org/doi/10.1145/3718958.3750523) (SIGCOMM 25)
 - [A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation](https://dl.acm.org/doi/abs/10.1145/3746027.3755299) (MM 25)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
@@ -209,6 +213,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Hummingbird: Energy Efficient GPS Receiver for Small Satellites](https://dl.acm.org/doi/10.1145/3372224.3380886) (MobiCom 20)
 
 ### Platform
+- [SERENADE: A Digital Twin Emulator for LEO Satellite Networking At-Scale](https://dl.acm.org/doi/10.1145/3774906.3802777) (SenSys 26)
 - [LEOCraft: Towards Designing Performant LEO Networks](https://www.usenix.org/conference/atc25/presentation/basak) (USENIX ATC 25)
 - [StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks](https://www.usenix.org/conference/nsdi23/presentation/lai-zeqi) (NSDI 23)
 - [A community-driven approach to democratize access to satellite ground stations](https://dl.acm.org/doi/10.1145/3447993.3448630) (MobiCom 21)
@@ -417,6 +422,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <summary><strong>WWW</strong></summary>
 
 - [Starlink in the Wild: Multi-Perspective Measurements via DNS](https://dl.acm.org/doi/abs/10.1145/3774904.3792366) (WWW 26)
+- [Investigating Web Content Delivery Performance over Starlink](https://dl.acm.org/doi/abs/10.1145/3774904.3792227) (WWW 26)
 - [Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching](https://dl.acm.org/doi/10.1145/3696410.3714789) (WWW 25)
 - [A Multifaceted Look at Starlink Performance](https://dl.acm.org/doi/abs/10.1145/3589334.3645328) (WWW 24) 
 - [SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications](https://dl.acm.org/doi/10.1145/3589334.3645639) (WWW 24) 
@@ -447,17 +453,25 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) (SIGMETRICS 24)
 </details>
 
+<details>
+<summary><strong>SenSys</strong></summary>
+
+- [SERENADE: A Digital Twin Emulator for LEO Satellite Networking At-Scale](https://dl.acm.org/doi/10.1145/3774906.3802777) (SenSys 26)
+- [Exploring LEO Satellite Networks for Continuous Monitoring and Dynamic Tracking](https://dl.acm.org/doi/10.1145/3774906.3802766) (SenSys 26)
+- [Enabling Near-realtime Remote Sensing via Satellite–Ground Collaboration of Large Vision–Language Models](https://dl.acm.org/doi/10.1145/3774906.3800497) (SenSys 26)
+- [SARLink: Satellite Backscatter Connectivity using Synthetic Aperture Radar](https://dl.acm.org/doi/10.1145/3715014.3722061) (SenSys 25)
+</details>
 
 
 <details>
 <summary><strong>Other</strong></summary>
+
 
 - [Pinpointing transmitting LEO satellites from a single passive array](https://connectedsystemslab.github.io/starloc/assets/Starloc_mobisys_2026.pdf) (MobiSys 26)
 - [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) (NINeS 26)
 - [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) (NINeS 26)
 - [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) (NINeS 26)
 - [LEOCraft: Towards Designing Performant LEO Networks](https://www.usenix.org/conference/atc25/presentation/basak) (USENIX ATC 25)
-- [SARLink: Satellite Backscatter Connectivity using Synthetic Aperture Radar](https://dl.acm.org/doi/10.1145/3715014.3722061) (SenSys 25)
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
 - [EagleEye: Nanosatellite constellation design for high-coverage, high-resolution sensing](https://dl.acm.org/doi/10.1145/3617232.3624851) (ASPLOS 24)
 - [PAST-AI: Physical-Layer Authentication of Satellite Transmitters via Deep Learning](https://ieeexplore.ieee.org/document/9936663) (TIFS 22)
