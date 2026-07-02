@@ -25,6 +25,8 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 ## Full papers by topic
 
 ### Routing/Topology
+- [LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks](https://ieeexplore.ieee.org/document/11571289) (INFOCOM 26)
+- [DS-Route: GNN-based Flow-Level Latency Prediction in Software-Defined LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571392) (INFOCOM 26)
 - [SkyRipple: Decentralized Routing for Multi-Shell Low-Earth-Orbit Satellite Constellation Networks](https://dl.acm.org/doi/abs/10.1145/3786285) (CoNEXT 26)
 - [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525) (SIGCOMM 25)
 - [NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/11044563) (INFOCOM 25)
@@ -49,6 +51,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Gearing up for the 21st century space race](https://dl.acm.org/doi/10.1145/3286062.3286079) (HotNets 18)
 
 ### Direct-to-cell Satellite Network
+- [SigHitching: Efficient Non-Broadcast Paging in Direct-to-Cell LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571622) (INFOCOM 26)
 - [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) (SIGMETRICS 26)
 - [A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments, and Insights](https://dl.acm.org/doi/abs/10.1145/3769001) (CoNEXT 25)
 - [Direct-to-Cell Satellite Network without Satellite Navigation](https://dl.acm.org/doi/10.1145/3718958.3750522) (SIGCOMM 25)
@@ -154,6 +157,9 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) (HotNets 20)
 
 ### Transport
+- [Enabling Efficient Transmission of Satellite-to-Ground Downlinks via Throughput Prediction](https://ieeexplore.ieee.org/document/11571545) (INFOCOM 26)
+- [Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://ieeexplore.ieee.org/document/11571543) (INFOCOM 26)
+- [Joint Optimization of Handoff and Video Rate in LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571207) (INFOCOM 26)
 - [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing](https://dl.acm.org/doi/10.1145/3680207.3765249) (MobiCom 25)
 - [SaTE: Low-Latency Traffic Engineering for Satellite Networks](https://dl.acm.org/doi/10.1145/3718958.3750524) (SIGCOMM 25)
 - [LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics](https://dl.acm.org/doi/10.1145/3718958.3750491) (SIGCOMM 25)
@@ -171,10 +177,12 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Lightweight Retransmission for Random Access in Satellite Networks](https://ieeexplore.ieee.org/document/8485806) (INFOCOM 18)
 
 ### Physical Layer
+- [Satellites are closer than you think: A near field MIMO approach for satellite ground stations](https://ieeexplore.ieee.org/document/11571506) (INFOCOM 26)
 - [Pinpointing transmitting LEO satellites from a single passive array](https://connectedsystemslab.github.io/starloc/assets/Starloc_mobisys_2026.pdf) (MobiSys 26)
 - [From Foe to Friend: The Surprising Turn of Mega Constellations in Radio Astronomy](https://dl.acm.org/doi/10.1145/3696348.3696863) (HotNets 24)
 
 ### Design Principles/Architecture
+- [The Invisible Hand: Regaining Control of Service Quality from Outsourced Satellite Networks](https://ieeexplore.ieee.org/document/11571494) (INFOCOM 26)
 - [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) (NINeS 26)
 - [Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations](https://conferences.sigcomm.org/hotnets/2025/papers/hotnets25-final233.pdf) (HotNets 25)
 - [SatFlow: Scalable Network Planning for LEO Mega-Constellations](https://ieeexplore.ieee.org/document/10858566) (ICNP 24)
@@ -183,7 +191,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/10.1145/3696348.3696885) (HotNets 24)
 
 ### Edge Computing
-
+- [KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://ieeexplore.ieee.org/document/11571195) (INFOCOM 26)
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) (DAC 25)
 - [In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks](https://ieeexplore.ieee.org/document/10621268) (INFOCOM 24)
 - [Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis](https://arxiv.org/abs/2401.03435) (MobiCom 24)
@@ -268,6 +276,15 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>INFOCOM</strong></summary>
 
+- [The Invisible Hand: Regaining Control of Service Quality from Outsourced Satellite Networks](https://ieeexplore.ieee.org/document/11571494) (INFOCOM 26)
+- [Joint Optimization of Handoff and Video Rate in LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571207) (INFOCOM 26)
+- [Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://ieeexplore.ieee.org/document/11571543) (INFOCOM 26)
+- [SigHitching: Efficient Non-Broadcast Paging in Direct-to-Cell LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571622) (INFOCOM 26)
+- [KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://ieeexplore.ieee.org/document/11571195) (INFOCOM 26)
+- [DS-Route: GNN-based Flow-Level Latency Prediction in Software-Defined LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571392) (INFOCOM 26)
+- [Satellites are closer than you think: A near field MIMO approach for satellite ground stations](https://ieeexplore.ieee.org/document/11571506) (INFOCOM 26)
+- [Enabling Efficient Transmission of Satellite-to-Ground Downlinks via Throughput Prediction](https://ieeexplore.ieee.org/document/11571545) (INFOCOM 26)
+- [LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks](https://ieeexplore.ieee.org/document/11571289) (INFOCOM 26)
 - [NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks](https://ieeexplore.ieee.org/document/11044563) (INFOCOM 25)
 - [SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services](https://ieeexplore.ieee.org/document/10621390) (INFOCOM 24) 
 - [Your Mega-Constellations Can Be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks](https://ieeexplore.ieee.org/document/10621083) (INFOCOM 24) 
