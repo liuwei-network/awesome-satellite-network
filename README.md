@@ -25,6 +25,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 ## Full papers by topic
 
 ### Routing/Topology
+- [SaTor: Exploring Satellite Routing in Tor to Reduce Latency](https://ieeexplore.ieee.org/abstract/document/11573531) (S&P 26)
 - [LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks](https://ieeexplore.ieee.org/document/11571289) (INFOCOM 26)
 - [DS-Route: GNN-based Flow-Level Latency Prediction in Software-Defined LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571392) (INFOCOM 26)
 - [SkyRipple: Decentralized Routing for Multi-Shell Low-Earth-Orbit Satellite Constellation Networks](https://dl.acm.org/doi/abs/10.1145/3786285) (CoNEXT 26)
@@ -75,7 +76,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [RECORD: A RECeption-Only Region Determination Attack on LEO Satellite Users](https://www.usenix.org/conference/usenixsecurity24/presentation/jedermann) (USENIX Security 24)
 - [Don't Shoot the Messenger: Localization Prevention of Satellite Internet Users](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a066/1RjEaCUhdxm) (S&P 24)
 
-#### Software Security
+#### Software/Firmware Security
+- [SatBleed: Security of Commoditized Communication Modules in Satellites](https://ieeexplore.ieee.org/document/11573399) (S&P 26)
 - [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a990/26hiU3pZHW0) (S&P 25)
 - [Space RadSim: Binary-Agnostic Fault Injection to Evaluate Cosmic Radiation Impact on Exploit Mitigation Techniques in Space](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b009/26hiU43Jy92) (S&P 25)
 - [A Comprehensive Analysis of Security Vulnerabilities and Attacks in Satellite Modems](https://dl.acm.org/doi/abs/10.1145/3658644.3670390) (CCS 24)
@@ -94,6 +96,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 #### Protocol Security
+- [SaTor: Exploring Satellite Routing in Tor to Reduce Latency](https://ieeexplore.ieee.org/abstract/document/11573531) (S&P 26)
 - [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) (NINeS 26)
 - [Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites](https://blog.fdik.org/2025-10/dontlookup_ccs25_fullpaper.pdf) (CCS 2025) 
 - [Starshields for iOS: Navigating the Security Cosmos in Satellite Communication](https://www.ndss-symposium.org/ndss-paper/starshields-for-ios-navigating-the-security-cosmos-in-satellite-communication/) (NDSS 25)
@@ -355,6 +358,8 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>S&amp;P (IEEE Security &amp; Privacy)</strong></summary>
 
+- [SaTor: Exploring Satellite Routing in Tor to Reduce Latency](https://ieeexplore.ieee.org/abstract/document/11573531) (S&P 26)
+- [SatBleed: Security of Commoditized Communication Modules in Satellites](https://ieeexplore.ieee.org/document/11573399) (S&P 26)
 - [Space RadSim: Binary-Agnostic Fault Injection to Evaluate Cosmic Radiation Impact on Exploit Mitigation Techniques in Space](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b009/26hiU43Jy92) (S&P 25)
 - [Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b026/26hiU4FcBjy) (S&P 25) 
 - [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a990/26hiU3pZHW0) (S&P 25) 
