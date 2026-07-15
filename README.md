@@ -70,6 +70,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 ### Security
 
 #### Location/Ranging
+- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) (USENIX Security 26)
 - [LEO-Range: Physical Layer Design for Secure Ranging with Low Earth Orbiting Satellites](https://www.usenix.org/conference/usenixsecurity25/presentation/coppola) (USENIX Security 25)
 - [Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b026/26hiU4FcBjy) (S&P 25)
 - [Orbital Trust and Privacy: SoK on PKI and Location Privacy Challenges in Space Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/koisser) (USENIX Security 24)
@@ -96,6 +97,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 #### Protocol Security
+- [HoneySat: A Network-based Satellite Honeypot Framework](https://www.ndss-symposium.org/ndss-paper/honeysat-a-network-based-satellite-honeypot-framework/) (NDSS 26)
 - [SaTor: Exploring Satellite Routing in Tor to Reduce Latency](https://ieeexplore.ieee.org/abstract/document/11573531) (S&P 26)
 - [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) (NINeS 26)
 - [Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites](https://blog.fdik.org/2025-10/dontlookup_ccs25_fullpaper.pdf) (CCS 2025) 
@@ -385,6 +387,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>NDSS</strong></summary>
 
+- [HoneySat: A Network-based Satellite Honeypot Framework](https://www.ndss-symposium.org/ndss-paper/honeysat-a-network-based-satellite-honeypot-framework/) (NDSS 26)
 - [Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures](https://www.ndss-symposium.org/ndss-paper/time-varying-bottleneck-links-in-leo-satellite-networks-identification-exploits-and-countermeasures/) (NDSS 25) 
 - [Starshields for iOS: Navigating the Security Cosmos in Satellite Communication](https://www.ndss-symposium.org/ndss-paper/starshields-for-ios-navigating-the-security-cosmos-in-satellite-communication/) (NDSS 25) 
 - [QPEP: An Actionable Approach to Secure and Performant Broadband From Geostationary Orbit](https://www.ndss-symposium.org/ndss-paper/qpep-an-actionable-approach-to-secure-and-performant-broadband-from-geostationary-orbit/) (NDSS 21) 
@@ -394,6 +397,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 <details>
 <summary><strong>USENIX Security</strong></summary>
 
+- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) (USENIX Security 26)
 - [LEO-Range: Physical Layer Design for Secure Ranging with Low Earth Orbiting Satellites](https://www.usenix.org/conference/usenixsecurity25/presentation/coppola) (USENIX Security 25) 
 - [GNSS-WASP: GNSS Wide Area SPoofing](https://www.usenix.org/conference/usenixsecurity25/presentation/tibaldo) (USENIX Security 25) 
 - [Orbital Trust and Privacy: SoK on PKI and Location Privacy Challenges in Space Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/koisser) (USENIX Security 24) 
