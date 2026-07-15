@@ -56,6 +56,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 - [Gearing up for the 21st century space race](https://dl.acm.org/doi/10.1145/3286062.3286079) (HotNets 18)
 
 ### Direct-to-cell Satellite Network
+- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) (USENIX Security 26)
 - [SigHitching: Efficient Non-Broadcast Paging in Direct-to-Cell LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571622) (INFOCOM 26)
 - [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) (SIGMETRICS 26)
 - [SkyOctopus: Enabling Low-Latency Mobile Satellite Network through Multiple Anchors](https://ieeexplore.ieee.org/document/11044594) (INFOCOM 25)
