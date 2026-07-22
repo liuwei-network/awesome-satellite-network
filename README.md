@@ -20,6 +20,7 @@ This repo collects academic papers/open-source projects/conference talks/framewo
 - [Workshops](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#workshops)
 - [Tutorials](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#tutorials)
 - [Projects](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#projects)
+- [Tools](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#tools)
 - [Datasets](https://github.com/liuwei-network/awesome-satellite-network?tab=readme-ov-file#datasets)
 
 ## Full papers by topic
@@ -588,7 +589,7 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 
 
 ## Workshops
-- [3st ACM Workshop on LEO Networking and Communication 2025 (LEO-NET)](https://leo-net-workshop.github.io/2025/program.html) (SIGCOMM 25)
+- [3rd ACM Workshop on LEO Networking and Communication 2025 (LEO-NET)](https://leo-net-workshop.github.io/2025/program.html) (SIGCOMM 25)
 - [3rd Workshop on Security of Space and Satellite Systems (SpaceSec)](https://spacesec.info) (NDSS 25)
 - [2nd ACM Workshop on LEO Networking and Communication 2024 (LEO-NET)](https://leo-net-workshop.github.io/2024/) (MobiCom 24)
 - [2nd Workshop on Security of Space and Satellite Systems (SpaceSec)](https://www.ndss-symposium.org/ndss-program/spacesec-2024/) (NDSS 24)
@@ -600,28 +601,65 @@ Constellations](https://ieeexplore.ieee.org/document/9812872) (IWQoS 22) (Best P
 ## Tutorials
 - [Integrated Satellite-Terrestrial Network (ISTN)](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html) (SIGCOMM 21)
 
-## Projects 
+## Projects
 
-### Open-source 3GPP NTN protocol stack
-- [OpenAirinterface5G](https://gitlab.eurecom.fr/oai/openairinterface5g/-/blob/develop/doc/RUNMODEM.md#how-to-run-a-ntn-configuration) (GEO/LEO, Transparent/Regenerative) 
-- [SRSRAN](https://docs.srsran.com/projects/project/en/latest/tutorials/source/ntn/source/index.html) (GEO only)
+### Open-source 3GPP NTN protocol stacks
+- [OpenAirInterface5G](https://gitlab.eurecom.fr/oai/openairinterface5g/-/blob/develop/doc/RUNMODEM.md#how-to-run-a-ntn-configuration) — An open-source 5G stack with GEO/LEO NTN configurations for transparent and regenerative satellite payloads.
+- [srsRAN](https://docs.srsran.com/projects/project/en/latest/tutorials/source/ntn/source/index.html) — An open-source 5G RAN stack with an NTN tutorial currently focused on GEO configurations.
 
-### Simulator
-- [CosmicBeats Simulator](https://github.com/microsoft/CosmicBeats-Simulator)
-- [StarryNet](https://github.com/SpaceNetLab/StarryNet)
-- [StarPerf](https://github.com/SpaceNetLab/StarPerf_Simulator)
-- [6GSPACELab](https://6gspacelab.uni.lu/5GforSpace)
+### Protocol and networking software
+- [libcsp](https://github.com/libcsp/libcsp) — A lightweight implementation of the CubeSat Space Protocol for embedded spacecraft communication.
+- [NASA High-rate Delay Tolerant Networking (HDTN)](https://github.com/nasa/HDTN) — A high-rate implementation of Delay/Disruption Tolerant Networking for space communication systems.
+
+### Simulators and emulators
+- [Hypatia](https://github.com/snkas/hypatia) — A framework for generating LEO constellations and running packet-level ns-3 simulations with visualization support.
+- [Celestial](https://github.com/OpenFogStack/celestial) — A Firecracker-based emulator for LEO edge-computing applications with time-varying links and multi-host support.
+- [OpenSN](https://github.com/OpenSN-Library/OpenSN-Library) — An open-source library for constructing and evaluating dynamic satellite-network topologies and routing schemes.
+- [SERENADE](https://github.com/serenade-project/SERENADE) — A real-time packet-level emulator that carries real IP traffic while modeling dynamic satellite links, routing, and topology.
+- [SNS-3](https://github.com/sns3/sns3-satellite) — An ns-3 satellite-network extension supporting LEO/GEO scenarios, channel models, traffic, and satellite protocols.
+- [OpenSAND](https://github.com/CNES/opensand) — A CNES satellite-network emulator for DVB-S2/RCS systems that can connect real applications and equipment.
+- [CosmicBeats Simulator](https://github.com/microsoft/CosmicBeats-Simulator) — A modular simulator for modeling satellite constellations, network links, and space-computing scenarios.
+- [StarryNet](https://github.com/SpaceNetLab/StarryNet) — A container-based emulator for evaluating integrated space-terrestrial networks with dynamic LEO topologies.
+- [StarPerf](https://github.com/SpaceNetLab/StarPerf_Simulator) — A flow-level simulator for characterizing routing and performance in emerging mega-constellations.
+- [6GSPACELab](https://6gspacelab.uni.lu/5GforSpace) — A University of Luxembourg testbed for integrated terrestrial and non-terrestrial 5G/6G experimentation.
+
+### Ground stations and measurement testbeds
+- [SatNOGS](https://satnogs.org/documentation/) — An open-source global network of satellite ground stations with software for scheduling, receiving, and sharing observations.
+- [LEOScope](https://leoscope.surrey.ac.uk/) — A distributed Starlink measurement platform that lets researchers run experiments from geographically diverse terminals.
+
+## Tools
+
+### Measurement and telemetry
+- [LEOViz](https://github.com/clarkzjw/LEOViz/) — Records and visualizes serving-satellite estimates, latency, and terminal metrics for Starlink and OneWeb.
+- [starlink-grpc-tools](https://github.com/sparky8512/starlink-grpc-tools) — A collection of scripts for querying, recording, and exporting telemetry from Starlink user terminals over gRPC.
 
 ### Visualization
-- [Starlink.sx](https://starlink.sx)
-- [See Starlink](https://james.darpinian.com/satellites/?special=starlink)
-- [Satellitemap.space](https://satellitemap.space)
+- [CesiumJS](https://github.com/CesiumGS/cesium) — An open-source JavaScript library for interactive 3D globes, maps, and large-scale satellite visualizations.
+- [Starlink.sx](https://starlink.sx) — An interactive 3D map for exploring Starlink orbits, coverage, gateways, and network geometry.
+- [See Starlink](https://james.darpinian.com/satellites/?special=starlink) — Predicts visible Starlink satellite passes for a user-selected location.
+- [Satellite Map](https://satellitemap.space) — Displays an interactive map of Starlink and other satellite constellations.
 
-### Orbit
-- [Skyfield](https://rhodesmill.org/skyfield/)
-- [ESA's Space Debris Software](https://sdup.esoc.esa.int)
+### Orbit and mission analysis
+- [Orekit](https://www.orekit.org/) — A Java library for high-precision orbit propagation, frames, time systems, attitude, and visibility analysis.
+- [NASA General Mission Analysis Tool (GMAT)](https://software.nasa.gov/software/GSC-19468-1) — An open-source mission-design and trajectory-optimization tool for spacecraft orbit and navigation analysis.
+- [Basilisk](https://avslab.github.io/basilisk/) — A modular astrodynamics and spacecraft simulation framework supporting software- and hardware-in-the-loop workflows.
+- [python-sgp4](https://pypi.org/project/sgp4/) — A Python implementation of Vallado's SGP4 propagator for TLE and OMM satellite element sets.
+- [Skyfield](https://rhodesmill.org/skyfield/) — A Python library for high-precision astronomy and satellite position calculations, including TLE propagation.
+- [ESA Space Debris Software](https://sdup.esoc.esa.int) — A portal for ESA space-debris environment, risk-assessment, mitigation, and re-entry analysis tools.
 
-## Dataset
+## Datasets
+
 ### Orbit data
-- [Space-track](https://www.space-track.org/)
-- [Celetrack](https://celestrak.com)
+- [Space-Track](https://www.space-track.org/) — The U.S. Space Force catalog portal for space-object metadata and orbital element sets.
+- [CelesTrak](https://celestrak.org/) — A public source of curated GP/TLE/OMM orbital data and satellite-tracking resources.
+
+### Network measurement data
+- [LENS](https://github.com/clarkzjw/LENS) — A continuously updated multi-region Starlink and OneWeb dataset with ping, IRTT, and terminal-telemetry measurements.
+- [WetLinks](https://github.com/sys-uos/WetLinks) — A six-month Starlink dataset combining throughput, RTT, loss, traceroutes, and colocated weather observations.
+- [Starlink End-User Measurement Data](https://github.com/Starlink-Measurement/starlink-infocom2023) — Code and data for the INFOCOM 2023 end-user study of Starlink network characteristics.
+- [Starlink IPv6 and Backbone Topology Data](https://ki3.org.cn/#/starlink-network) — Data from a large-scale IPv6 study, including active user routers, points of presence, and inferred backbone connections.
+- [RHONE On-Orbit Telemetry Data](https://github.com/TiansuanConstellation/ATC25-RHONE-DATA) — Power, temperature, and runtime telemetry collected from the Tiansuan constellation for RHONE.
+- [NEXASPHERE 7-Day Starlink Dataset](https://zenodo.org/records/20796667) — A seven-day Athens deployment with latency, jitter, throughput, terminal telemetry, and availability measurements.
+
+### Signal data
+- [RML24](https://zenodo.org/records/17800058) — A hardware-in-the-loop satellite TT&C signal dataset with 1,386,000 samples across 22 modulation formats and annotated SNR and symbol-rate metadata.
