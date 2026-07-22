@@ -11,9 +11,12 @@
 <p align="center">
   <a href="#papers-by-topic"><img src="https://img.shields.io/badge/papers-184-00bcd4" alt="184 papers"></a>
   <a href="#research-topics"><img src="https://img.shields.io/badge/topics-17-6f42c1" alt="17 topics"></a>
+  <a href="https://github.com/liuwei-network/awesome-satellite-network/stargazers"><img src="https://img.shields.io/github/stars/liuwei-network/awesome-satellite-network?style=social" alt="Star this repository on GitHub"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/commits/master"><img src="https://img.shields.io/github/last-commit/liuwei-network/awesome-satellite-network?color=1976d2" alt="Last commit"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/actions/workflows/links.yml"><img src="https://img.shields.io/github/actions/workflow/status/liuwei-network/awesome-satellite-network/links.yml?branch=master&label=links" alt="Link check"></a>
 </p>
+
+<!--<p align="center"><sub>⭐ Found this collection useful? A star is always welcome!</sub></p>-->
 
 <p align="center">
   <a href="#papers-by-topic">Papers by Topic</a>&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -50,33 +53,33 @@ The collection uses 17 peer-level topics. The grid is a navigation index rather 
 
 <table>
   <tr>
-    <td width="33%" valign="top">🏗️ <a href="#architecture"><strong>Architecture</strong></a><br><sub>Network models and constellation architectures</sub></td>
-    <td width="33%" valign="top">🕸️ <a href="#topology"><strong>Topology</strong></a><br><sub>Constellation and link-topology design</sub></td>
-    <td width="33%" valign="top">🧭 <a href="#routing"><strong>Routing</strong></a><br><sub>Path selection and traffic engineering</sub></td>
+    <td align="center" width="33%" valign="top">🏗️ <a href="#architecture"><strong>Architecture</strong></a><br><sub>Network models and constellation architectures</sub></td>
+    <td align="center" width="33%" valign="top">🕸️ <a href="#topology"><strong>Topology</strong></a><br><sub>Constellation and link-topology design</sub></td>
+    <td align="center" width="33%" valign="top">🧭 <a href="#routing"><strong>Routing</strong></a><br><sub>Path selection and traffic engineering</sub></td>
   </tr>
   <tr>
-    <td valign="top">🔄 <a href="#mobility"><strong>Mobility</strong></a><br><sub>Handover and mobility management</sub></td>
-    <td valign="top">⚙️ <a href="#resource-management"><strong>Resource Management</strong></a><br><sub>Allocation, scheduling, and orchestration</sub></td>
-    <td valign="top">📡 <a href="#ground-segment"><strong>Ground Segment</strong></a><br><sub>Ground stations, gateways, and downlinks</sub></td>
+    <td align="center" valign="top">🔄 <a href="#mobility"><strong>Mobility</strong></a><br><sub>Handover and mobility management</sub></td>
+    <td align="center" valign="top">⚙️ <a href="#resource-management"><strong>Resource Management</strong></a><br><sub>Allocation, scheduling, and orchestration</sub></td>
+    <td align="center" valign="top">📡 <a href="#ground-segment"><strong>Ground Segment</strong></a><br><sub>Ground stations, gateways, and downlinks</sub></td>
   </tr>
   <tr>
-    <td valign="top">📱 <a href="#direct-to-cell"><strong>Direct-to-Cell</strong></a><br><sub>Satellite access for mobile devices</sub></td>
-    <td valign="top">〰️ <a href="#physical-layer"><strong>Physical Layer</strong></a><br><sub>Radio, antennas, signals, and access</sub></td>
-    <td valign="top">🚚 <a href="#transport"><strong>Transport</strong></a><br><sub>Congestion control and reliable delivery</sub></td>
+    <td align="center" valign="top">📱 <a href="#direct-to-cell"><strong>Direct-to-Cell</strong></a><br><sub>Satellite access for mobile devices</sub></td>
+    <td align="center" valign="top">〰️ <a href="#physical-layer"><strong>Physical Layer</strong></a><br><sub>Radio, antennas, signals, and access</sub></td>
+    <td align="center" valign="top">🚚 <a href="#transport"><strong>Transport</strong></a><br><sub>Congestion control and reliable delivery</sub></td>
   </tr>
   <tr>
-    <td valign="top">📊 <a href="#measurement"><strong>Measurement</strong></a><br><sub>Operational networks and user performance</sub></td>
-    <td valign="top">🧠 <a href="#space-computing"><strong>Space Computing</strong></a><br><sub>In-orbit computing and orchestration</sub></td>
-    <td valign="top">🌍 <a href="#sensing"><strong>Sensing</strong></a><br><sub>Remote sensing and on-orbit analytics</sub></td>
+    <td align="center" valign="top">📊 <a href="#measurement"><strong>Measurement</strong></a><br><sub>Operational networks and user performance</sub></td>
+    <td align="center" valign="top">🧠 <a href="#space-computing"><strong>Space Computing</strong></a><br><sub>In-orbit computing and orchestration</sub></td>
+    <td align="center" valign="top">🌍 <a href="#sensing"><strong>Sensing</strong></a><br><sub>Remote sensing and on-orbit analytics</sub></td>
   </tr>
   <tr>
-    <td valign="top">🔋 <a href="#satellite-iot"><strong>Satellite IoT</strong></a><br><sub>Low-power satellite IoT connectivity</sub></td>
-    <td valign="top">▶️ <a href="#content-delivery"><strong>Content Delivery</strong></a><br><sub>CDNs, streaming, and multimedia delivery</sub></td>
-    <td valign="top">🔐 <a href="#security"><strong>Security</strong></a><br><sub>Attacks, privacy, authentication, and defenses</sub></td>
+    <td align="center" valign="top">🔋 <a href="#satellite-iot"><strong>Satellite IoT</strong></a><br><sub>Low-power satellite IoT connectivity</sub></td>
+    <td align="center" valign="top">▶️ <a href="#content-delivery"><strong>Content Delivery</strong></a><br><sub>CDNs, streaming, and multimedia delivery</sub></td>
+    <td align="center" valign="top">🔐 <a href="#security"><strong>Security</strong></a><br><sub>Attacks, privacy, authentication, and defenses</sub></td>
   </tr>
   <tr>
-    <td valign="top">🛡️ <a href="#reliability"><strong>Reliability</strong></a><br><sub>Failures, radiation, and survivability</sub></td>
-    <td valign="top" colspan="2">🧪 <a href="#experimental-platforms"><strong>Experimental Platforms</strong></a><br><sub>Simulators, emulators, digital twins, and testbeds</sub></td>
+    <td align="center" valign="top">🛡️ <a href="#reliability"><strong>Reliability</strong></a><br><sub>Failures, radiation, and survivability</sub></td>
+    <td align="center" valign="top" colspan="2">🧪 <a href="#experimental-platforms"><strong>Experimental Platforms</strong></a><br><sub>Simulators, emulators, digital twins, and testbeds</sub></td>
   </tr>
 </table>
 
