@@ -1,0 +1,46 @@
+name: Add a resource
+description: Suggest a project, dataset, tool, testbed, or tutorial
+title: "[Resource] "
+labels:
+  - resource
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Resource type
+      options:
+        - Open-source project
+        - Dataset
+        - Tool
+        - Testbed
+        - Tutorial
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: Official project or dataset name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain in one or two sentences what the resource provides.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Relevance and maintenance
+      description: Explain its satellite-networking use and whether it remains accessible or maintained.
+    validations:
+      required: true

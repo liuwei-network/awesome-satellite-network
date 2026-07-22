@@ -1,0 +1,78 @@
+name: Add a paper
+description: Suggest a conference paper for the collection
+title: "[Paper] "
+labels:
+  - paper
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing. Please search the repository for the title and DOI before submitting.
+  - type: input
+    id: title
+    attributes:
+      label: Paper title
+      placeholder: Full official title
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official paper URL
+      placeholder: https://doi.org/...
+    validations:
+      required: true
+  - type: input
+    id: venue
+    attributes:
+      label: Venue and year
+      placeholder: INFOCOM 2026
+    validations:
+      required: true
+  - type: dropdown
+    id: ccf
+    attributes:
+      label: CCF rank
+      options:
+        - A
+        - B
+    validations:
+      required: true
+  - type: dropdown
+    id: topics
+    attributes:
+      label: Research directions
+      description: Select every direction where the paper makes a substantial contribution.
+      multiple: true
+      options:
+        - Architecture
+        - Topology
+        - Routing
+        - Mobility
+        - Resource Management
+        - Ground Segment
+        - Direct-to-Cell
+        - Physical Layer
+        - Transport
+        - Measurement
+        - Space Computing
+        - Sensing
+        - Satellite IoT
+        - Content Delivery
+        - Security
+        - Reliability
+        - Experimental Platforms
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Relevance
+      description: Briefly explain the paper's satellite-networking contribution and selected topics.
+    validations:
+      required: true
+  - type: textarea
+    id: artifacts
+    attributes:
+      label: Code, data, or artifacts
+      description: Add official artifact URLs when available.

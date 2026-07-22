@@ -1,0 +1,10 @@
+accept = [200, 204, 206, 403, 429]
+exclude_mail = true
+max_retries = 2
+retry_wait_time = 2
+timeout = 30
+
+exclude = [
+  "https://img.shields.io/",
+  "https://github.com/liuwei-network/awesome-satellite-network/actions/workflows/links.yml"
+]
