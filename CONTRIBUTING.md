@@ -54,7 +54,7 @@ Keep each pull request focused. In the description, explain:
 - any cross-topic placement;
 - whether code, data, or artifacts are available.
 
-All links and Markdown checks should pass before review.
+All Markdown checks should pass before review.
 
 ## Corrections
 

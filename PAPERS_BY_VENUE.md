@@ -15,7 +15,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="sigcomm"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>SIGCOMM</strong> · 8 papers</summary>
 
 - [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525) — `SIGCOMM 2025` · `Topology`
@@ -31,7 +31,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="nsdi"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>NSDI</strong> · 4 papers</summary>
 
 - [Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/nsdi24/presentation/liu-lixin) — `NSDI 2024` · 🏆 Outstanding Paper Award · `Direct-to-Cell`
@@ -43,7 +43,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="mobicom"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>MobiCom</strong> · 12 papers</summary>
 
 - [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing](https://dl.acm.org/doi/epdf/10.1145/3680207.3765249) — `MobiCom 2025` · `Resource Management` · `Sensing`
@@ -63,7 +63,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="infocom"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>INFOCOM</strong> · 42 papers</summary>
 
 - [Seamless Inter-Constellation Sharing via Handover-Aware Space-Ground Association](https://doi.org/10.1109/INFOCOM59046.2026.11571351) — `INFOCOM 2026` · `Architecture` · `Mobility` · `Resource Management`
@@ -113,7 +113,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="hotnets"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>HotNets</strong> · 19 papers</summary>
 
 - [Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations](https://conferences.sigcomm.org/hotnets/2025/papers/hotnets25-final233.pdf) — `HotNets 2025` · `Reliability`
@@ -140,7 +140,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="s-p-ieee-security-privacy"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>S&P (IEEE Security & Privacy)</strong> · 10 papers</summary>
 
 - [SaTor: Exploring Satellite Routing in Tor to Reduce Latency](https://ieeexplore.ieee.org/abstract/document/11573531) — `S&P 2026` · `Routing` · `Security`
@@ -158,7 +158,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="ccs"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>CCS</strong> · 3 papers</summary>
 
 - [Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites](https://dl.acm.org/doi/10.1145/3719027.3765198) — `CCS 2025` · `Measurement` · `Security`
@@ -169,7 +169,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="ndss"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>NDSS</strong> · 4 papers</summary>
 
 - [HoneySat: A Network-based Satellite Honeypot Framework](https://www.ndss-symposium.org/ndss-paper/honeysat-a-network-based-satellite-honeypot-framework/) — `NDSS 2026` · `Security`
@@ -181,7 +181,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="usenix-security"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>USENIX Security</strong> · 7 papers</summary>
 
 - [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) — `USENIX Security 2026` · `Direct-to-Cell` · `Security`
@@ -196,7 +196,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="wisec"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>WiSec</strong> · 5 papers</summary>
 
 - [VSAsTer: Uncovering Inherent Security Issues in Current VSAT System Practices](https://dl.acm.org/doi/10.1145/3643833.3656139) — `WiSec 2024` · `Security`
@@ -209,7 +209,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="iwqos"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>IWQoS</strong> · 7 papers</summary>
 
 - [Beneath the Heavens: A Thorough Measurement Study of the Starlink Terrestrial Network](https://doi.org/10.1109/IWQOS65803.2025.11143359) — `IWQoS 2025` · `Ground Segment` · `Measurement`
@@ -224,7 +224,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="conext"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>CoNEXT</strong> · 7 papers</summary>
 
 - [SkyRipple: Decentralized Routing for Multi-Shell Low-Earth-Orbit Satellite Constellation Networks](https://dl.acm.org/doi/abs/10.1145/3786285) — `CoNEXT 2026` · `Routing`
@@ -239,7 +239,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="icnp"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>ICNP</strong> · 9 papers</summary>
 
 - [ERA-LEO: An Efficient Rate Adaptation with Probabilistic Constellation Shaping for LEO Satellite Networks](https://doi.org/10.1109/ICNP65844.2025.11192403) — `ICNP 2025` · `Resource Management` · `Physical Layer`
@@ -256,7 +256,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="imc"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>IMC</strong> · 8 papers</summary>
 
 - [Assessing LEO Satellite Networks for National Emergency Failover](https://dl.acm.org/doi/10.1145/3730567.3764482) — `IMC 2025` · `Measurement`
@@ -272,7 +272,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="www"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>WWW</strong> · 6 papers</summary>
 
 - [Starlink in the Wild: Multi-Perspective Measurements via DNS](https://dl.acm.org/doi/abs/10.1145/3774904.3792366) — `WWW 2026` · `Measurement`
@@ -286,7 +286,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="mm"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>MM</strong> · 8 papers</summary>
 
 - [Meta-Knowledge Path Augmentation for Multi-Hop Reasoning on Satellite Commonsense Multi-Modal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3746027.3754957) — `MM 2025` · `Sensing`
@@ -302,7 +302,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="sigmetrics"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>SIGMETRICS</strong> · 5 papers</summary>
 
 - [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) — `SIGMETRICS 2026` · `Direct-to-Cell` · `Measurement`
@@ -315,7 +315,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="sensys"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>SenSys</strong> · 7 papers</summary>
 
 - [SERENADE: A Digital Twin Emulator for LEO Satellite Networking At-Scale](https://dl.acm.org/doi/10.1145/3774906.3802777) — `SenSys 2026` · `Experimental Platforms`
@@ -330,7 +330,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="mobisys"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>MobiSys</strong> · 3 papers</summary>
 
 - [Pinpointing Transmitting LEO Satellites from a Single Passive Array](https://dl.acm.org/doi/10.1145/3745756.3809228) — `MobiSys 2026` · `Physical Layer` · `Sensing`
@@ -341,7 +341,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="usenix-atc"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>USENIX ATC</strong> · 4 papers</summary>
 
 - [Emulating Space Computing Networks with RHONE](https://www.usenix.org/conference/atc25/presentation/wang-liying) — `USENIX ATC 2025` · `Space Computing` · `Experimental Platforms`
@@ -353,7 +353,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 
 <a id="other"></a>
 
-<details>
+<details markdown="1">
 <summary><strong>Other</strong> · 6 papers</summary>
 
 - [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) — `NINeS 2026` · `Measurement`

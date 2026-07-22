@@ -13,7 +13,6 @@
   <a href="#research-topics"><img src="https://img.shields.io/badge/topics-17-6f42c1" alt="17 topics"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/stargazers"><img src="https://img.shields.io/github/stars/liuwei-network/awesome-satellite-network?style=social" alt="Star this repository on GitHub"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/commits/master"><img src="https://img.shields.io/github/last-commit/liuwei-network/awesome-satellite-network?color=1976d2" alt="Last commit"></a>
-  <a href="https://github.com/liuwei-network/awesome-satellite-network/actions/workflows/links.yml"><img src="https://img.shields.io/github/actions/workflow/status/liuwei-network/awesome-satellite-network/links.yml?branch=master&label=links" alt="Link check"></a>
 </p>
 
 <p align="center"><sub>⭐ Found this collection useful? A star is always welcome!</sub></p>

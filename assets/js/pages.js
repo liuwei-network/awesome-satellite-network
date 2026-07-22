@@ -7,6 +7,8 @@
   const themeToggle = document.querySelector("#theme-toggle");
   const backToTop = document.querySelector("#back-to-top");
   const progress = document.querySelector("#reading-progress");
+  const pageShell = document.querySelector(".page-shell");
+  const sidebar = document.querySelector(".sidebar");
   const baseurl = (body.dataset.baseurl || "").replace(/\/$/, "");
 
   const sitePath = (path) => `${baseurl}${path}` || "/";
@@ -39,6 +41,8 @@
   const toc = document.querySelector("#page-toc");
   const headings = [...content.querySelectorAll("h2, h3")];
   const tocHeadings = headings.filter((heading) => heading.id);
+  const venueGroups = [...content.querySelectorAll("details")];
+  const tocTargets = [];
 
   tocHeadings.forEach((heading) => {
     const link = document.createElement("a");
@@ -46,30 +50,44 @@
     link.textContent = heading.textContent;
     link.dataset.level = heading.tagName.slice(1);
     toc.append(link);
+    tocTargets.push({ link, target: heading });
   });
 
-  if (!tocHeadings.length) {
-    document.querySelector(".sidebar")?.setAttribute("hidden", "");
+  if (body.dataset.pageKind === "venue") {
+    venueGroups.forEach((group) => {
+      const anchor = group.previousElementSibling?.querySelector("a[id]");
+      const label = group.querySelector("summary strong")?.textContent;
+      if (!anchor || !label) return;
+
+      const link = document.createElement("a");
+      link.href = `#${anchor.id}`;
+      link.textContent = label;
+      link.dataset.level = "2";
+      toc.append(link);
+      tocTargets.push({ link, target: group });
+    });
   }
 
-  if ("IntersectionObserver" in window && tocHeadings.length) {
-    const tocLinks = new Map(
-      [...toc.querySelectorAll("a")].map((link) => [link.getAttribute("href").slice(1), link])
-    );
+  if (!tocTargets.length) {
+    sidebar?.setAttribute("hidden", "");
+    pageShell?.classList.add("no-sidebar");
+  }
+
+  if ("IntersectionObserver" in window && tocTargets.length) {
+    const tocLinks = new Map(tocTargets.map(({ link, target }) => [target, link]));
     const observer = new IntersectionObserver(
       (entries) => {
         const visible = entries.find((entry) => entry.isIntersecting);
         if (!visible) return;
         tocLinks.forEach((link) => link.classList.remove("is-active"));
-        tocLinks.get(visible.target.id)?.classList.add("is-active");
+        tocLinks.get(visible.target)?.classList.add("is-active");
       },
       { rootMargin: "-20% 0px -72% 0px" }
     );
-    tocHeadings.forEach((heading) => observer.observe(heading));
+    tocTargets.forEach(({ target }) => observer.observe(target));
   }
 
   const searchableItems = [...content.querySelectorAll("li")];
-  const venueGroups = [...content.querySelectorAll("details")];
 
   venueGroups.forEach((group) => {
     group.dataset.initialOpen = group.open ? "true" : "false";
