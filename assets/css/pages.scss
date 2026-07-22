@@ -3,48 +3,46 @@
 
 :root {
   color-scheme: light;
-  --bg: #f4f7fb;
-  --bg-elevated: rgba(255, 255, 255, 0.94);
+  --bg: #f6f8fa;
+  --bg-elevated: #ffffff;
   --surface: #ffffff;
-  --surface-soft: #f7faff;
-  --text: #172033;
-  --text-muted: #63708a;
-  --heading: #071426;
-  --border: #dce5f0;
-  --border-strong: #c9d7e8;
-  --accent: #087ea4;
-  --accent-bright: #00a9d6;
-  --accent-soft: #e6f8fc;
-  --violet: #6f56d9;
-  --code-bg: #eaf2fb;
-  --header: rgba(7, 20, 38, 0.94);
-  --header-text: #eef8ff;
-  --shadow: 0 20px 55px rgba(31, 51, 79, 0.10);
-  --shadow-soft: 0 8px 28px rgba(31, 51, 79, 0.08);
-  --radius: 18px;
+  --surface-soft: #f6f8fa;
+  --text: #1f2328;
+  --text-muted: #59636e;
+  --heading: #1f2328;
+  --border: #d0d7de;
+  --border-strong: #afb8c1;
+  --accent: #0969da;
+  --accent-bright: #0550ae;
+  --accent-soft: #ddf4ff;
+  --code-bg: #eff1f3;
+  --header: #25292e;
+  --header-text: #f0f6fc;
+  --shadow: 0 1px 2px rgba(31, 35, 40, 0.04);
+  --shadow-soft: 0 1px 3px rgba(31, 35, 40, 0.08);
+  --radius: 6px;
   --header-height: 72px;
 }
 
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --bg: #07101c;
-  --bg-elevated: rgba(12, 25, 42, 0.94);
-  --surface: #0d1a2b;
-  --surface-soft: #102239;
-  --text: #dce8f5;
-  --text-muted: #93a7be;
-  --heading: #f2f8ff;
-  --border: #203650;
-  --border-strong: #2d4867;
-  --accent: #54d6f4;
-  --accent-bright: #73e5ff;
-  --accent-soft: #0e3144;
-  --violet: #a99aff;
-  --code-bg: #132a43;
-  --header: rgba(4, 12, 24, 0.94);
-  --header-text: #f3f9ff;
-  --shadow: 0 22px 60px rgba(0, 0, 0, 0.28);
-  --shadow-soft: 0 8px 30px rgba(0, 0, 0, 0.22);
+  --bg: #0d1117;
+  --bg-elevated: #0d1117;
+  --surface: #161b22;
+  --surface-soft: #161b22;
+  --text: #e6edf3;
+  --text-muted: #8d96a0;
+  --heading: #f0f6fc;
+  --border: #30363d;
+  --border-strong: #484f58;
+  --accent: #4493f8;
+  --accent-bright: #58a6ff;
+  --accent-soft: #13233a;
+  --code-bg: #161b22;
+  --header: #010409;
+  --header-text: #f0f6fc;
+  --shadow: none;
+  --shadow-soft: 0 1px 3px rgba(0, 0, 0, 0.32);
 }
 
 * {
@@ -59,10 +57,7 @@ html {
 body {
   margin: 0;
   min-width: 320px;
-  background:
-    radial-gradient(circle at 12% 4%, rgba(0, 169, 214, 0.11), transparent 28rem),
-    radial-gradient(circle at 88% 14%, rgba(111, 86, 217, 0.10), transparent 30rem),
-    var(--bg);
+  background: var(--bg);
   color: var(--text);
   font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 16px;
@@ -107,7 +102,7 @@ a:hover {
   display: block;
   width: 0;
   height: 100%;
-  background: linear-gradient(90deg, var(--accent-bright), var(--violet));
+  background: var(--accent);
 }
 
 .site-header {
@@ -115,10 +110,9 @@ a:hover {
   z-index: 100;
   top: 0;
   min-height: var(--header-height);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.09);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.10);
   background: var(--header);
   color: var(--header-text);
-  backdrop-filter: blur(18px) saturate(130%);
 }
 
 .header-inner {
@@ -150,8 +144,8 @@ a:hover {
   height: 40px;
   place-items: center;
   border: 1px solid rgba(255, 255, 255, 0.15);
-  border-radius: 12px;
-  background: linear-gradient(145deg, rgba(84, 214, 244, 0.18), rgba(111, 86, 217, 0.20));
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.08);
   font-size: 21px;
 }
 
@@ -214,8 +208,8 @@ a:hover {
 }
 
 .site-search:focus-within {
-  border-color: rgba(84, 214, 244, 0.65);
-  box-shadow: 0 0 0 3px rgba(84, 214, 244, 0.12);
+  border-color: #58a6ff;
+  box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.18);
 }
 
 .site-search input {
@@ -245,7 +239,7 @@ a:hover {
 .github-button {
   height: 40px;
   border: 1px solid rgba(255, 255, 255, 0.15);
-  border-radius: 11px;
+  border-radius: 6px;
   background: rgba(255, 255, 255, 0.07);
   color: #eaf5ff;
 }
@@ -273,8 +267,8 @@ a:hover {
 
 .icon-button:hover,
 .github-button:hover {
-  border-color: rgba(84, 214, 244, 0.5);
-  background: rgba(84, 214, 244, 0.12);
+  border-color: rgba(255, 255, 255, 0.28);
+  background: rgba(255, 255, 255, 0.12);
   color: #ffffff;
 }
 
@@ -350,7 +344,7 @@ a:hover {
   min-width: 0;
   padding: clamp(26px, 4vw, 58px);
   border: 1px solid var(--border);
-  border-radius: 24px;
+  border-radius: 6px;
   background: var(--bg-elevated);
   box-shadow: var(--shadow);
   overflow-wrap: anywhere;
@@ -381,11 +375,9 @@ a:hover {
 
 .markdown-body h1 {
   margin: 28px 0 12px;
-  background: linear-gradient(100deg, var(--heading), var(--accent) 62%, var(--violet));
-  background-clip: text;
-  color: transparent;
-  font-size: clamp(2.15rem, 5vw, 4rem);
-  letter-spacing: -0.045em;
+  color: var(--heading);
+  font-size: clamp(2.15rem, 5vw, 3.6rem);
+  letter-spacing: -0.035em;
 }
 
 .markdown-body h2 {
@@ -396,18 +388,6 @@ a:hover {
   letter-spacing: -0.025em;
 }
 
-.markdown-body h2::before {
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  margin: 0 10px 0 1px;
-  border-radius: 50%;
-  background: linear-gradient(135deg, var(--accent-bright), var(--violet));
-  box-shadow: 0 0 0 5px var(--accent-soft);
-  content: "";
-  vertical-align: 0.2em;
-}
-
 .markdown-body h3 {
   margin: 38px 0 12px;
   font-size: 1.28rem;
@@ -415,7 +395,7 @@ a:hover {
 
 .markdown-body h4 {
   margin: 30px 0 10px;
-  color: var(--accent);
+  color: var(--heading);
   font-size: 1.02rem;
   letter-spacing: 0.01em;
 }
@@ -457,7 +437,7 @@ a:hover {
   border: 1px solid var(--border);
   border-radius: 6px;
   background: var(--code-bg);
-  color: var(--violet);
+  color: var(--text);
   font: 0.86em/1.5 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 
@@ -489,15 +469,14 @@ a:hover {
 .markdown-body th {
   padding: 16px 14px;
   border: 1px solid var(--border);
-  border-radius: 13px;
+  border-radius: 6px;
   background: var(--surface-soft);
   box-shadow: 0 5px 16px rgba(31, 51, 79, 0.04);
 }
 
 .markdown-body td:hover {
   border-color: var(--border-strong);
-  background: var(--accent-soft);
-  transform: translateY(-1px);
+  background: var(--surface);
 }
 
 .markdown-body td strong {
@@ -512,7 +491,7 @@ a:hover {
 .markdown-body details {
   margin: 12px 0;
   border: 1px solid var(--border);
-  border-radius: 13px;
+  border-radius: 6px;
   background: var(--surface);
   box-shadow: 0 4px 16px rgba(31, 51, 79, 0.04);
 }
@@ -539,7 +518,7 @@ a:hover {
   padding: 10px 18px;
   border-left: 4px solid var(--accent);
   border-radius: 0 10px 10px 0;
-  background: var(--accent-soft);
+  background: var(--surface-soft);
   color: var(--text-muted);
 }
 
@@ -563,7 +542,11 @@ a:hover {
 
 .search-match {
   border-radius: 7px;
-  background: var(--accent-soft);
+  background: #fff8c5;
+}
+
+:root[data-theme="dark"] .search-match {
+  background: #3b2e00;
 }
 
 .site-footer {
@@ -599,7 +582,7 @@ a:hover {
   border: 1px solid var(--border-strong);
   border-radius: 50%;
   background: var(--surface);
-  color: var(--accent);
+  color: var(--heading);
   box-shadow: var(--shadow-soft);
   cursor: pointer;
   opacity: 0;
