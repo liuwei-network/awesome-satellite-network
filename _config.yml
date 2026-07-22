@@ -1,0 +1,19 @@
+title: Awesome Satellite Networking
+description: A curated collection of papers, open-source systems, datasets, testbeds, and tools for satellite networking and non-terrestrial networks.
+url: https://liuwei-network.github.io
+baseurl: /awesome-satellite-network
+repository: liuwei-network/awesome-satellite-network
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - CONTRIBUTING.md
+  - CITATION.bib
+  - README.md
+  - PAPERS_BY_VENUE.md
+  - outputs
+  - vendor
+

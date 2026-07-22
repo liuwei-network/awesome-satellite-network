@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#071426">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+    <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:image" content="{{ '/assets/social-preview.png' | absolute_url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <title>{% if page.page_kind == 'home' %}{{ site.title }}{% else %}{{ page.title | default: site.title }} · {{ site.title }}{% endif %}</title>
+    <link rel="icon" href="{{ '/assets/satellite-mark.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/pages.css' | relative_url }}">
+    <script>
+      try {
+        const savedTheme = localStorage.getItem("asn-theme");
+        const preferredTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        document.documentElement.dataset.theme = savedTheme || preferredTheme;
+      } catch (_) {}
+    </script>
+    <script src="{{ '/assets/js/pages.js' | relative_url }}" defer></script>
+  </head>
+  <body data-baseurl="{{ site.baseurl }}" data-page-kind="{{ page.page_kind | default: 'page' }}">
+    <a class="skip-link" href="#content">Skip to content</a>
+    <div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Awesome Satellite Networking home">
+          <span class="brand-mark" aria-hidden="true">🛰️</span>
+          <span class="brand-copy">
+            <strong>Awesome Satellite</strong>
+            <small>Networking</small>
+          </span>
+        </a>
+
+        <nav class="primary-nav" aria-label="Primary navigation">
+          <a href="{{ '/' | relative_url }}"{% if page.page_kind == 'home' %} aria-current="page"{% endif %}>Topics</a>
+          <a href="{{ '/papers-by-venue/' | relative_url }}"{% if page.page_kind == 'venue' %} aria-current="page"{% endif %}>Venues</a>
+          <a href="{{ '/' | relative_url }}#projects">Projects</a>
+          <a href="{{ '/' | relative_url }}#datasets">Datasets</a>
+        </nav>
+
+        <div class="header-actions">
+          <label class="site-search" for="site-search">
+            <span aria-hidden="true">⌕</span>
+            <input id="site-search" type="search" placeholder="Search this page" autocomplete="off" spellcheck="false">
+            <kbd>⌘K</kbd>
+          </label>
+          <button class="icon-button" id="theme-toggle" type="button" aria-label="Toggle color theme" title="Toggle color theme">
+            <span class="theme-light" aria-hidden="true">☀</span>
+            <span class="theme-dark" aria-hidden="true">☾</span>
+          </button>
+          <a class="github-button" href="https://github.com/liuwei-network/awesome-satellite-network">GitHub <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </header>
+
+    <div class="page-shell">
+      <aside class="sidebar" aria-label="On this page">
+        <div class="sidebar-inner">
+          <p class="sidebar-label">On this page</p>
+          <nav id="page-toc"></nav>
+        </div>
+      </aside>
+
+      <main class="markdown-body" id="content">
+        <div class="search-status" id="search-status" role="status" hidden></div>
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <div>
+        <strong>Awesome Satellite Networking</strong>
+        <span>Curated and maintained by Wei Liu.</span>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/liuwei-network/awesome-satellite-network/blob/master/CONTRIBUTING.md">Contribute</a>
+        <a href="https://github.com/liuwei-network/awesome-satellite-network/blob/master/CITATION.bib">Cite</a>
+        <a href="https://github.com/liuwei-network/awesome-satellite-network/issues">Issues</a>
+      </div>
+    </footer>
+
+    <button class="back-to-top" id="back-to-top" type="button" aria-label="Back to top">↑</button>
+  </body>
+</html>

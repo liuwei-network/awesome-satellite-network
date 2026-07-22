@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Satellite network</title>
+  <defs>
+    <linearGradient id="space" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#54d6f4"/>
+      <stop offset="1" stop-color="#7f6df2"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="#071426"/>
+  <path d="M25 25 39 39M39 25 25 39" stroke="#dff8ff" stroke-width="4" stroke-linecap="round"/>
+  <rect x="25" y="25" width="14" height="14" rx="3" transform="rotate(45 32 32)" fill="url(#space)" stroke="#fff" stroke-width="1.5"/>
+  <path d="m18 12 12 8-10 10-8-12 6-6Zm28 40-12-8 10-10 8 12-6 6Z" fill="url(#space)" stroke="#baf4ff" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M43 16a10 10 0 0 1 5 5M45 9a18 18 0 0 1 10 10" fill="none" stroke="#54d6f4" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
+
