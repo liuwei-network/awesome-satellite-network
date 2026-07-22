@@ -150,7 +150,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 - [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a990/26hiU3pZHW0) — `S&P 2025` · `Security`
 - [Don't Shoot the Messenger: Localization Prevention of Satellite Internet Users](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a066/1RjEaCUhdxm) — `S&P 2024` · `Security`
 - [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA) — `S&P 2024` · `Direct-to-Cell` · `Security`
-- [Space Odyssey: An Experimental Software Security Analysis of Satellites](https://doi.org/10.1109/SP46215.2023.00131) — `S&P 2023` · 🏆 Distinguished Paper Award · `Security`
+- [Space Odyssey: An Experimental Software Security Analysis of Satellites](https://doi.org/10.1109/SP46215.2023.10351029) — `S&P 2023` · 🏆 Distinguished Paper Award · `Security`
 - [A Tale of Sea and Sky On the Security of Maritime VSAT Communications](https://ieeexplore.ieee.org/document/9152624/keywords#keywords) — `S&P 2020` · `Security`
 - [Don’t Trust Satellite Phones: A Security Analysis of Two Satphone Standards](https://www.ieee-security.org/TC/SP2012/papers/4681a128.pdf) — `S&P 2012` · `Security`
 

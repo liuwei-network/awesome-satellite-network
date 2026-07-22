@@ -1,4 +1,4 @@
-accept = [200, 204, 206, 403, 429]
+accept = [200, 202, 204, 206, 403, 429]
 include_mail = false
 max_retries = 2
 retry_wait_time = 2
@@ -6,5 +6,7 @@ timeout = 30
 
 exclude = [
   "https://img.shields.io/",
-  "https://github.com/liuwei-network/awesome-satellite-network/actions/workflows/links.yml"
+  "https://github.com/liuwei-network/awesome-satellite-network/actions/workflows/links.yml",
+  "^https://github\\.com/liuwei-network/awesome-satellite-network/stargazers$",
+  "^https://ieeexplore\\.ieee\\.org/"
 ]

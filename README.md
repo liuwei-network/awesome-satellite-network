@@ -16,7 +16,7 @@
   <a href="https://github.com/liuwei-network/awesome-satellite-network/actions/workflows/links.yml"><img src="https://img.shields.io/github/actions/workflow/status/liuwei-network/awesome-satellite-network/links.yml?branch=master&label=links" alt="Link check"></a>
 </p>
 
-<!--<p align="center"><sub>⭐ Found this collection useful? A star is always welcome!</sub></p>-->
+<p align="center"><sub>⭐ Found this collection useful? A star is always welcome!</sub></p>
 
 <p align="center">
   <a href="#papers-by-topic">Papers by Topic</a>&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -344,7 +344,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [Space RadSim: Binary-Agnostic Fault Injection to Evaluate Cosmic Radiation Impact on Exploit Mitigation Techniques in Space](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b009/26hiU43Jy92) — `S&P 2025`
 - [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a990/26hiU3pZHW0) — `S&P 2025`
 - [A Comprehensive Analysis of Security Vulnerabilities and Attacks in Satellite Modems](https://dl.acm.org/doi/abs/10.1145/3658644.3670390) — `CCS 2024`
-- [Space Odyssey: An Experimental Software Security Analysis of Satellites](https://doi.org/10.1109/SP46215.2023.00131) — `S&P 2023` · 🏆 Distinguished Paper Award
+- [Space Odyssey: An Experimental Software Security Analysis of Satellites](https://doi.org/10.1109/SP46215.2023.10351029) — `S&P 2023` · 🏆 Distinguished Paper Award
 
 #### Network Attacks
 - [Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures](https://www.ndss-symposium.org/ndss-paper/time-varying-bottleneck-links-in-leo-satellite-networks-identification-exploits-and-countermeasures/) — `NDSS 2025`
