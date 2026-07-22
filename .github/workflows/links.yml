@@ -6,13 +6,13 @@ on:
       - master
     paths:
       - "**/*.md"
-      - "CITATION.cff"
+      - "CITATION.bib"
       - ".lychee.toml"
       - ".github/workflows/links.yml"
   pull_request:
     paths:
       - "**/*.md"
-      - "CITATION.cff"
+      - "CITATION.bib"
       - ".lychee.toml"
       - ".github/workflows/links.yml"
   workflow_dispatch:
@@ -30,5 +30,5 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --config .lychee.toml "./**/*.md" "CITATION.cff"
+          args: --config .lychee.toml "./**/*.md" "CITATION.bib"
           fail: true

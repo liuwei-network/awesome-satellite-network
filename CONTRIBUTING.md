@@ -15,11 +15,11 @@ Before opening a pull request:
 1. Search both [README.md](README.md) and [PAPERS_BY_VENUE.md](PAPERS_BY_VENUE.md) for the title and DOI.
 2. Use the official paper title and a stable publisher, conference, DOI, or author-hosted URL.
 3. Confirm the venue, four-digit year, and CCF rank.
-4. Add the paper to every research direction where it makes a substantial contribution.
+4. Add the paper to every topic where it makes a substantial contribution.
 5. Add it exactly once to the appropriate venue section.
 6. Keep entries ordered by year, newest first; within a year, sort alphabetically by title.
 
-Use this format in the research-direction index:
+Use this format in the topic index:
 
 ```markdown
 - [Paper title](https://example.org/paper) — `VENUE 2026`
@@ -50,7 +50,7 @@ Keep each pull request focused. In the description, explain:
 
 - what was added or corrected;
 - why it is in scope;
-- the selected research direction or resource category;
+- the selected topic or resource category;
 - any cross-topic placement;
 - whether code, data, or artifacts are available.
 

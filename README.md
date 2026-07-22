@@ -9,27 +9,31 @@
 </p>
 
 <p align="center">
-  <a href="#papers-by-research-direction"><img src="https://img.shields.io/badge/papers-184-00bcd4" alt="184 papers"></a>
-  <a href="#research-directions"><img src="https://img.shields.io/badge/topics-17-6f42c1" alt="17 topics"></a>
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
+  <a href="#papers-by-topic"><img src="https://img.shields.io/badge/papers-184-00bcd4" alt="184 papers"></a>
+  <a href="#research-topics"><img src="https://img.shields.io/badge/topics-17-6f42c1" alt="17 topics"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/commits/master"><img src="https://img.shields.io/github/last-commit/liuwei-network/awesome-satellite-network?color=1976d2" alt="Last commit"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/actions/workflows/links.yml"><img src="https://img.shields.io/github/actions/workflow/status/liuwei-network/awesome-satellite-network/links.yml?branch=master&label=links" alt="Link check"></a>
 </p>
 
 <p align="center">
-  <a href="#papers-by-research-direction">Papers by Topic</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#papers-by-topic">Papers by Topic</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="PAPERS_BY_VENUE.md">Papers by Venue</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#tools">Tools</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#datasets">Datasets</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="CONTRIBUTING.md">Contributing</a>
+  <a href="#datasets">Datasets</a>
 </p>
 
 ## At a Glance
 
-| Papers | Research directions | Projects | Tools | Datasets |
-|:---:|:---:|:---:|:---:|:---:|
-| **184** | **17** | **16** | **12** | **9** |
+<table>
+  <tr>
+    <td align="center" width="20%"><strong>184</strong><br><sub>Conference papers</sub></td>
+    <td align="center" width="20%"><strong>17</strong><br><sub>Research topics</sub></td>
+    <td align="center" width="20%"><strong>16</strong><br><sub>Open-source projects</sub></td>
+    <td align="center" width="20%"><strong>12</strong><br><sub>Research tools</sub></td>
+    <td align="center" width="20%"><strong>9</strong><br><sub>Public datasets</sub></td>
+  </tr>
+</table>
 
 ## Recent Additions
 
@@ -40,19 +44,45 @@
 - [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) — `SIGMETRICS 2026` · `Direct-to-Cell` · `Measurement`
 - [SERENADE: A Digital Twin Emulator for LEO Satellite Networking At-Scale](https://dl.acm.org/doi/10.1145/3774906.3802777) — `SenSys 2026` · `Experimental Platforms`
 
-## Research Directions
+## Research Topics
 
-| Network design | Systems | Applications | Trust |
-|---|---|---|---|
-| [Architecture](#architecture) | [Space Computing](#space-computing) | [Sensing](#sensing) | [Security](#security) |
-| [Topology](#topology) | [Experimental Platforms](#experimental-platforms) | [Satellite IoT](#satellite-iot) | [Reliability](#reliability) |
-| [Routing](#routing) | [Ground Segment](#ground-segment) | [Content Delivery](#content-delivery) | [Measurement](#measurement) |
-| [Mobility](#mobility) | [Physical Layer](#physical-layer) | [Direct-to-Cell](#direct-to-cell) | |
-| [Resource Management](#resource-management) | [Transport](#transport) | | |
+The collection uses 17 peer-level topics. The grid is a navigation index rather than a hierarchy.
 
-## Papers by Research Direction
+<table>
+  <tr>
+    <td width="33%" valign="top">🏗️ <a href="#architecture"><strong>Architecture</strong></a><br><sub>Network models and constellation architectures</sub></td>
+    <td width="33%" valign="top">🕸️ <a href="#topology"><strong>Topology</strong></a><br><sub>Constellation and link-topology design</sub></td>
+    <td width="33%" valign="top">🧭 <a href="#routing"><strong>Routing</strong></a><br><sub>Path selection and traffic engineering</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">🔄 <a href="#mobility"><strong>Mobility</strong></a><br><sub>Handover and mobility management</sub></td>
+    <td valign="top">⚙️ <a href="#resource-management"><strong>Resource Management</strong></a><br><sub>Allocation, scheduling, and orchestration</sub></td>
+    <td valign="top">📡 <a href="#ground-segment"><strong>Ground Segment</strong></a><br><sub>Ground stations, gateways, and downlinks</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">📱 <a href="#direct-to-cell"><strong>Direct-to-Cell</strong></a><br><sub>Satellite access for mobile devices</sub></td>
+    <td valign="top">〰️ <a href="#physical-layer"><strong>Physical Layer</strong></a><br><sub>Radio, antennas, signals, and access</sub></td>
+    <td valign="top">🚚 <a href="#transport"><strong>Transport</strong></a><br><sub>Congestion control and reliable delivery</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">📊 <a href="#measurement"><strong>Measurement</strong></a><br><sub>Operational networks and user performance</sub></td>
+    <td valign="top">🧠 <a href="#space-computing"><strong>Space Computing</strong></a><br><sub>In-orbit computing and orchestration</sub></td>
+    <td valign="top">🌍 <a href="#sensing"><strong>Sensing</strong></a><br><sub>Remote sensing and on-orbit analytics</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">🔋 <a href="#satellite-iot"><strong>Satellite IoT</strong></a><br><sub>Low-power satellite IoT connectivity</sub></td>
+    <td valign="top">▶️ <a href="#content-delivery"><strong>Content Delivery</strong></a><br><sub>CDNs, streaming, and multimedia delivery</sub></td>
+    <td valign="top">🔐 <a href="#security"><strong>Security</strong></a><br><sub>Attacks, privacy, authentication, and defenses</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">🛡️ <a href="#reliability"><strong>Reliability</strong></a><br><sub>Failures, radiation, and survivability</sub></td>
+    <td valign="top" colspan="2">🧪 <a href="#experimental-platforms"><strong>Experimental Platforms</strong></a><br><sub>Simulators, emulators, digital twins, and testbeds</sub></td>
+  </tr>
+</table>
 
-Papers are listed under a primary direction and may also appear in additional directions when they make a substantial cross-topic contribution. Intentional duplication is limited to clear cases.
+## Papers by Topic
+
+Papers are listed under a primary topic and may also appear in additional topics when they make a substantial cross-topic contribution. Intentional duplication is limited to clear cases.
 
 ### Architecture
 - [The Invisible Hand: Regaining Control of Service Quality from Outsourced Satellite Networks](https://ieeexplore.ieee.org/document/11571494) — `INFOCOM 2026`
@@ -395,12 +425,18 @@ Papers are listed under a primary direction and may also appear in additional di
 ### Signal data
 - [RML24](https://zenodo.org/records/17800058) — A hardware-in-the-loop satellite TT&C signal dataset with 1,386,000 samples across 22 modulation formats and annotated SNR and symbol-rate metadata.
 
-## Contributing
-
-Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a paper, project, dataset, or tool.
-
 ## Citation
 
-If this collection supports your research, please cite the repository using [CITATION.cff](CITATION.cff).
+If this collection supports your research, please cite it using the following entry ([download BibTeX](CITATION.bib)):
+
+```bibtex
+@misc{liu2026awesomeSatelliteNetworking,
+  author = {Wei Liu},
+  title  = {Awesome Satellite Networking},
+  year   = {2026},
+  url    = {https://github.com/liuwei-network/awesome-satellite-network},
+  note   = {A curated collection of papers, systems, datasets, and tools for satellite networking and non-terrestrial networks}
+}
+```
 
 <p align="right"><a href="#awesome-satellite-network-">Back to top ↑</a></p>

@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/venues-21-6f42c1" alt="21 venues">
 </p>
 
-Papers are grouped by publication venue and ordered by year. Topic tags link this index conceptually to the research-direction view in the main README.
+Papers are grouped by publication venue and ordered by year. Topic tags connect this index to the topic view in the main README.
 
 **Venues:** [SIGCOMM](#sigcomm) · [NSDI](#nsdi) · [MobiCom](#mobicom) · [INFOCOM](#infocom) · [HotNets](#hotnets) · [S&P (IEEE Security & Privacy)](#s-p-ieee-security-privacy) · [CCS](#ccs) · [NDSS](#ndss) · [USENIX Security](#usenix-security) · [WiSec](#wisec) · [IWQoS](#iwqos) · [CoNEXT](#conext) · [ICNP](#icnp) · [IMC](#imc) · [WWW](#www) · [MM](#mm) · [SIGMETRICS](#sigmetrics) · [SenSys](#sensys) · [MobiSys](#mobisys) · [USENIX ATC](#usenix-atc) · [Other](#other)
 

@@ -41,8 +41,8 @@ body:
   - type: dropdown
     id: topics
     attributes:
-      label: Research directions
-      description: Select every direction where the paper makes a substantial contribution.
+      label: Research topics
+      description: Select every topic where the paper makes a substantial contribution.
       multiple: true
       options:
         - Architecture
