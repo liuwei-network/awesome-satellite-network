@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this collection, please cite it using the metadata from this file."
+title: "Awesome Satellite Networking"
+type: dataset
+authors:
+  - family-names: "Liu"
+    given-names: "Wei"
+abstract: >-
+  A curated collection of papers, open-source systems, datasets, testbeds,
+  and tools for satellite networking and non-terrestrial networks.
+repository-code: "https://github.com/liuwei-network/awesome-satellite-network"
+url: "https://liuwei-network.github.io/awesome-satellite-network/"
+keywords:
+  - satellite networking
+  - non-terrestrial networks
+  - low Earth orbit
+  - research papers
