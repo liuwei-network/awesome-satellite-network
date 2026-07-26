@@ -341,7 +341,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 #### Software and Firmware
 - [SatBleed: Security of Commoditized Communication Modules in Satellites](https://ieeexplore.ieee.org/document/11573399) — `S&P 2026`
 - [Space RadSim: Binary-Agnostic Fault Injection to Evaluate Cosmic Radiation Impact on Exploit Mitigation Techniques in Space](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b009/26hiU43Jy92) — `S&P 2025`
-- [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a990/26hiU3pZHW0) — `S&P 2025`
+- [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://doi.org/10.1109/SP61157.2025.00138) — `S&P 2025`
 - [A Comprehensive Analysis of Security Vulnerabilities and Attacks in Satellite Modems](https://dl.acm.org/doi/abs/10.1145/3658644.3670390) — `CCS 2024`
 - [Space Odyssey: An Experimental Software Security Analysis of Satellites](https://doi.org/10.1109/SP46215.2023.10351029) — `S&P 2023` · 🏆 Distinguished Paper Award
 
@@ -402,6 +402,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 <p align="right"><a href="#awesome-satellite-network-">Back to top ↑</a></p>
 
 ## Workshops
+- [4th ACM Workshop on LEO Networking and Communication 2026 (LEO-NET)](https://leo-net-workshop.github.io/2026/index.html) — `SIGCOMM 2026`
 - [3rd ACM Workshop on LEO Networking and Communication 2025 (LEO-NET)](https://leo-net-workshop.github.io/2025/program.html) — `SIGCOMM 2025`
 - [3rd Workshop on Security of Space and Satellite Systems (SpaceSec)](https://spacesec.info) — `NDSS 2025`
 - [2nd ACM Workshop on LEO Networking and Communication 2024 (LEO-NET)](https://leo-net-workshop.github.io/2024/) — `MobiCom 2024`

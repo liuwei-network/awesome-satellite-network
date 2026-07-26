@@ -147,7 +147,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 - [SatBleed: Security of Commoditized Communication Modules in Satellites](https://ieeexplore.ieee.org/document/11573399) — `S&P 2026` · `Security`
 - [Space RadSim: Binary-Agnostic Fault Injection to Evaluate Cosmic Radiation Impact on Exploit Mitigation Techniques in Space](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b009/26hiU43Jy92) — `S&P 2025` · `Security` · `Reliability`
 - [Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b026/26hiU4FcBjy) — `S&P 2025` · `Direct-to-Cell` · `Security`
-- [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a990/26hiU3pZHW0) — `S&P 2025` · `Security`
+- [SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses](https://doi.org/10.1109/SP61157.2025.00138) — `S&P 2025` · `Security`
 - [Don't Shoot the Messenger: Localization Prevention of Satellite Internet Users](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a066/1RjEaCUhdxm) — `S&P 2024` · `Security`
 - [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA) — `S&P 2024` · `Direct-to-Cell` · `Security`
 - [Space Odyssey: An Experimental Software Security Analysis of Satellites](https://doi.org/10.1109/SP46215.2023.10351029) — `S&P 2023` · 🏆 Distinguished Paper Award · `Security`
