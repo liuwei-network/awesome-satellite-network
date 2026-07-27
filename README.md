@@ -33,7 +33,7 @@
     <td align="center" width="20%">🧭<br><strong>17 Topics</strong><br><sub>Peer-level research themes</sub></td>
     <td align="center" width="20%">🧩<br><strong>16 Projects</strong><br><sub>Open-source systems</sub></td>
     <td align="center" width="20%">🛠️<br><strong>12 Tools</strong><br><sub>Research utilities</sub></td>
-    <td align="center" width="20%">🗂️<br><strong>11 Datasets</strong><br><sub>Public research data</sub></td>
+    <td align="center" width="20%">🗂️<br><strong>28 Datasets</strong><br><sub>Public research data</sub></td>
   </tr>
 </table>
 
@@ -467,18 +467,39 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [Space-Track](https://www.space-track.org/) — The U.S. Space Force catalog portal for space-object metadata and orbital element sets.
 - [CelesTrak](https://celestrak.org/) — A public source of curated GP/TLE/OMM orbital data and satellite-tracking resources.
 
-### Network measurement data
+### Starlink
 - [LENS](https://github.com/clarkzjw/LENS) — A continuously updated multi-region Starlink and OneWeb dataset with ping, IRTT, and terminal-telemetry measurements.
 - [WetLinks](https://github.com/sys-uos/WetLinks) — A six-month Starlink dataset combining throughput, RTT, loss, traceroutes, and colocated weather observations.
 - [Starlink End-User Measurement Data](https://github.com/Starlink-Measurement/starlink-infocom2023) — Code and data for the INFOCOM 2023 end-user study of Starlink network characteristics.
+- [A Multifaceted Look at Starlink Performance Dataset](https://doi.org/10.14459/2024mp1734703) — Measurement data from the WWW 2024 study combining crowdsourced, RIPE Atlas, and controlled experiments on latency, throughput, routing, and application performance.
+- [Starlink Measurements 01/2022–06/2022](https://doi.org/10.5281/zenodo.15303862) — A six-month dataset containing ping, traceroute, HTTP, TLS, visible-satellite, and terminal-disconnection measurements.
+- [Starlink on the Autobahn](https://doi.org/10.21227/knvp-8d25) — Mobile Starlink throughput, RTT, and loss measurements from a 300-km drive in Germany, with stationary terminal and service-plan comparisons.
+- [Filtered Crowdsourced Starlink Measurements](https://doi.org/10.4121/0bf59468-e5cb-433f-aeb2-e04cf694b65c.v1) — Approximately 23 million M-Lab and Cloudflare latency and throughput measurements enriched with satellite-visibility, geographic, and weather features.
+- [Starlink One-Way Delay Dataset](https://doi.org/10.5281/zenodo.16275283) — Hardware-timestamped uplink and downlink one-way-delay measurements collected from a Starlink terminal in Sweden for LEO-NET 2025.
+- [Global Starlink Web Cache Latency and Traceroute Dataset](https://doi.org/10.5281/zenodo.14800115) — Roughly two million RIPE Atlas ping and traceroute measurements from Starlink probes across five continents to popular websites.
+- [Understanding DNS Dynamics over Starlink Dataset](https://doi.org/10.5281/zenodo.20642922) — Custom and RIPE Atlas DNS measurements with Parquet data, constellation-development records, and reproducible analysis notebooks.
+- [CARL-W Starlink Dataset](https://doi.org/10.5281/zenodo.8130936) — A one-month measurement dataset from a testbed integrating Starlink with a private 5G network.
+- [Starlink Latency and Downlink Throughput Dataset](https://doi.org/10.5281/zenodo.10020034) — Public Starlink round-trip-latency and downlink-throughput measurements.
+- [Statistical Characterization of LEO E2E Latency Dataset](https://doi.org/10.17632/479v4mym7j.2) — Per-packet Starlink IRTT traces containing timestamps, uplink delay, downlink delay, and RTT from multiple long-running experiments.
+- [Website Fingerprinting over Starlink Dataset](https://doi.org/10.5281/zenodo.10478853) — Preprocessed Tor and Firefox website-access traces collected over Starlink and fiber links for evaluating website-fingerprinting attacks.
 - [Starlink IPv6 and Backbone Topology Data](https://ki3.org.cn/#/starlink-network) — Data from a large-scale IPv6 study, including active user routers, points of presence, and inferred backbone connections.
-- [RHONE On-Orbit Telemetry Data](https://github.com/TiansuanConstellation/ATC25-RHONE-DATA) — Power, temperature, and runtime telemetry collected from the Tiansuan constellation for RHONE.
 - [NEXASPHERE 7-Day Starlink Dataset](https://zenodo.org/records/20796667) — A seven-day Athens deployment with latency, jitter, throughput, terminal telemetry, and availability measurements.
+- [StarLoc Passive RF Dataset](https://zenodo.org/records/19043854) — Passive Starlink Ku-band IQ captures from a synchronized three-receiver array, with IMU/GNSS and TLE metadata for 81 satellites across 11 observations.
+- [Starlink Ku-band Frames and Pilots Dataset](https://doi.org/10.5281/zenodo.21404930) — Decoded Starlink Ku-band downlink frames and MATLAB scripts for studying pilot sequences, recurrent symbols, and modulation mappings.
+- [Raw Starlink and OneWeb Monitoring Data](https://doi.org/10.5281/zenodo.8400657) — One month of spectrum scans, Ku-band beacon monitoring, SDR captures, and corresponding daily TLE data collected in the UK.
+
+### Network measurement and telemetry data
+- [RHONE On-Orbit Telemetry Data](https://github.com/TiansuanConstellation/ATC25-RHONE-DATA) — Power, temperature, and runtime telemetry collected from the Tiansuan constellation for RHONE.
 
 ### Signal data
-- [StarLoc Passive RF Dataset](https://zenodo.org/records/19043854) — Passive Starlink Ku-band IQ captures from a synchronized three-receiver array, with IMU/GNSS and TLE metadata for 81 satellites across 11 observations.
 - [IRIDIUM Broadcast Message Physical-Layer Dataset](https://data.mendeley.com/datasets/xcxspv8c2r/2) — 3.84 million IRIDIUM broadcast-message records and 7.63 billion associated IQ samples collected during two month-long measurement campaigns.
 - [RML24](https://zenodo.org/records/17800058) — A hardware-in-the-loop satellite TT&C signal dataset with 1,386,000 samples across 22 modulation formats and annotated SNR and symbol-rate metadata.
+
+### Open measurement and observation sources
+- [SatNOGS Observations Database](https://network.satnogs.org/observations/) — An openly queryable global archive of ground-station observations, waterfalls, decoded telemetry, pass geometry, and satellite metadata.
+- [RIPE Atlas](https://atlas.ripe.net/) — A global active-measurement platform whose public API supports extracting satellite-network ping, traceroute, DNS, and other measurements by probe and ASN.
+- [Measurement Lab (M-Lab)](https://www.measurementlab.net/data/) — An open Internet-measurement archive that supports longitudinal extraction of Starlink throughput and latency records, including NDT data.
+- [Cloudflare Radar](https://radar.cloudflare.com/) — Public network-quality and speed-test insights that can be explored by ASN and geography for aggregate Starlink performance analysis.
 
 ## Citation
 
