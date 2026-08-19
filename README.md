@@ -195,7 +195,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 
 ### Direct-to-Cell
 - [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) — `SIGMETRICS 2026`
-- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) — `USENIX Security 2026`
+- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) — `USENIX Security 2026` · 🏆 Distinguished Paper Award
 - [SigHitching: Efficient Non-Broadcast Paging in Direct-to-Cell LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571622) — `INFOCOM 2026`
 - [A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments, and Insights](https://dl.acm.org/doi/abs/10.1145/3769001) — `CoNEXT 2025`
 - [Direct-to-Cell Satellite Network without Satellite Navigation](https://dl.acm.org/doi/10.1145/3718958.3750522) — `SIGCOMM 2025`
@@ -345,7 +345,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 ### Security
 
 #### Location and Ranging
-- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) — `USENIX Security 2026`
+- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) — `USENIX Security 2026` · 🏆 Distinguished Paper Award
 - [Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b026/26hiU4FcBjy) — `S&P 2025`
 - [LEO-Range: Physical Layer Design for Secure Ranging with Low Earth Orbiting Satellites](https://www.usenix.org/conference/usenixsecurity25/presentation/coppola) — `USENIX Security 2025`
 - [Orbital Trust and Privacy: SoK on PKI and Location Privacy Challenges in Space Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/koisser) — `USENIX Security 2024`

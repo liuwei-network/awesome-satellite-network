@@ -189,7 +189,7 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 <details markdown="1">
 <summary><strong>USENIX Security</strong> · 7 papers</summary>
 
-- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) — `USENIX Security 2026` · `Direct-to-Cell` · `Security`
+- [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) — `USENIX Security 2026` · `Direct-to-Cell` · `Security` · 🏆 Distinguished Paper Award
 - [LEO-Range: Physical Layer Design for Secure Ranging with Low Earth Orbiting Satellites](https://www.usenix.org/conference/usenixsecurity25/presentation/coppola) — `USENIX Security 2025` · `Physical Layer` · `Security`
 - [GNSS-WASP: GNSS Wide Area SPoofing](https://www.usenix.org/conference/usenixsecurity25/presentation/tibaldo) — `USENIX Security 2025` · `Security`
 - [Orbital Trust and Privacy: SoK on PKI and Location Privacy Challenges in Space Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/koisser) — `USENIX Security 2024` · `Security`
