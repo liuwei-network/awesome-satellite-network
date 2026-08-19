@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/conference%20papers-184-00bcd4" alt="184 conference papers">
+  <img src="https://img.shields.io/badge/conference%20papers-188-00bcd4" alt="188 conference papers">
   <img src="https://img.shields.io/badge/venues-21-6f42c1" alt="21 venues">
 </p>
 

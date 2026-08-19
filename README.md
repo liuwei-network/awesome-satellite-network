@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#papers-by-topic"><img src="https://img.shields.io/badge/papers-184-00bcd4" alt="184 papers"></a>
+  <a href="#papers-by-topic"><img src="https://img.shields.io/badge/papers-188-00bcd4" alt="188 papers"></a>
   <a href="#research-topics"><img src="https://img.shields.io/badge/topics-17-6f42c1" alt="17 topics"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/stargazers"><img src="https://img.shields.io/github/stars/liuwei-network/awesome-satellite-network?style=social" alt="Star this repository on GitHub"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/commits/master"><img src="https://img.shields.io/github/last-commit/liuwei-network/awesome-satellite-network?color=1976d2" alt="Last commit"></a>
