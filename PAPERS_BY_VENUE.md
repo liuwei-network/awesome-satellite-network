@@ -16,7 +16,12 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 <a id="sigcomm"></a>
 
 <details markdown="1">
-<summary><strong>SIGCOMM</strong> · 8 papers</summary>
+<summary><strong>SIGCOMM</strong> · 12 papers</summary>
+
+- [CommSAR: Enabling Bidirectional Communication in SAR Imaging Satellites via Shared Waveform](https://dl.acm.org/doi/10.1145/3789240.3829144) — `SIGCOMM 2026` · `Physical Layer` · `Ground Segment`
+- [Planet-Scale IoT Connectivity via LEO Satellites](https://dl.acm.org/doi/10.1145/3789240.3829147) — `SIGCOMM 2026` · `Satellite IoT` · `Measurement`
+- [Dissecting the StarLink: Characterizing Queuing and Flow Dynamics in the Starlink Network](https://dl.acm.org/doi/10.1145/3789240.3829162) — `SIGCOMM 2026` · `Measurement` · `Transport`
+- [Achieving Efficient Storage and Communication via Collaboration](https://dl.acm.org/doi/10.1145/3789240.3829176) — `SIGCOMM 2026` · `Space Computing` · `Sensing` · `Resource Management`
 
 - [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525) — `SIGCOMM 2025` · `Topology`
 - [Direct-to-Cell Satellite Network without Satellite Navigation](https://dl.acm.org/doi/10.1145/3718958.3750522) — `SIGCOMM 2025` · `Direct-to-Cell`
