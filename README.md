@@ -450,6 +450,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [StarryNet](https://github.com/SpaceNetLab/StarryNet) — A container-based emulator for evaluating integrated space-terrestrial networks with dynamic LEO topologies.
 - [StarPerf](https://github.com/SpaceNetLab/StarPerf_Simulator) — A flow-level simulator for characterizing routing and performance in emerging mega-constellations.
 - [6GSPACELab](https://6gspacelab.uni.lu/5GforSpace) — A University of Luxembourg testbed for integrated terrestrial and non-terrestrial 5G/6G experimentation.
+- [Open-Source 5G NR NTN Testbed (LEO)](https://github.com/sabbir-uoulu/open-source-5g-ntn-leo) — A reproducible LEO 5G NTN testbed built on OpenAirInterface and Open5GS that tracks propagation delay and Doppler shift across a full satellite pass, covering a 3GPP Rel-17 attach.
 
 ### Ground stations and measurement testbeds
 - [SatNOGS](https://satnogs.org/documentation/) — An open-source global network of satellite ground stations with software for scheduling, receiving, and sharing observations.
