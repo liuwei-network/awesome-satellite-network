@@ -434,6 +434,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 ### Open-source 3GPP NTN protocol stacks
 - [OpenAirInterface5G](https://gitlab.eurecom.fr/oai/openairinterface5g/-/blob/develop/doc/RUNMODEM.md#how-to-run-a-ntn-configuration) — An open-source 5G stack with GEO/LEO NTN configurations for transparent and regenerative satellite payloads.
 - [srsRAN](https://docs.srsran.com/projects/project/en/latest/tutorials/source/ntn/source/index.html) — An open-source 5G RAN stack with an NTN tutorial currently focused on GEO configurations.
+- [Open-Source 5G NR NTN Testbed (LEO)](https://github.com/sabbir-uoulu/open-source-5g-ntn-leo) — A reproducible LEO 5G NTN testbed built on OpenAirInterface and Open5GS that tracks propagation delay and Doppler shift across a full satellite pass, covering a 3GPP Rel-17 attach.
 
 ### Protocol and networking software
 - [libcsp](https://github.com/libcsp/libcsp) — A lightweight implementation of the CubeSat Space Protocol for embedded spacecraft communication.
@@ -450,7 +451,6 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [StarryNet](https://github.com/SpaceNetLab/StarryNet) — A container-based emulator for evaluating integrated space-terrestrial networks with dynamic LEO topologies.
 - [StarPerf](https://github.com/SpaceNetLab/StarPerf_Simulator) — A flow-level simulator for characterizing routing and performance in emerging mega-constellations.
 - [6GSPACELab](https://6gspacelab.uni.lu/5GforSpace) — A University of Luxembourg testbed for integrated terrestrial and non-terrestrial 5G/6G experimentation.
-- [Open-Source 5G NR NTN Testbed (LEO)](https://github.com/sabbir-uoulu/open-source-5g-ntn-leo) — A reproducible LEO 5G NTN testbed built on OpenAirInterface and Open5GS that tracks propagation delay and Doppler shift across a full satellite pass, covering a 3GPP Rel-17 attach.
 
 ### Ground stations and measurement testbeds
 - [SatNOGS](https://satnogs.org/documentation/) — An open-source global network of satellite ground stations with software for scheduling, receiving, and sharing observations.
