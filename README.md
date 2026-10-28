@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#papers-by-topic"><img src="https://img.shields.io/badge/papers-188-00bcd4" alt="188 papers"></a>
+  <a href="#papers-by-topic"><img src="https://img.shields.io/badge/papers-205-00bcd4" alt="205 papers"></a>
   <a href="#research-topics"><img src="https://img.shields.io/badge/topics-17-6f42c1" alt="17 topics"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/stargazers"><img src="https://img.shields.io/github/stars/liuwei-network/awesome-satellite-network?style=social" alt="Star this repository on GitHub"></a>
   <a href="https://github.com/liuwei-network/awesome-satellite-network/commits/master"><img src="https://img.shields.io/github/last-commit/liuwei-network/awesome-satellite-network?color=1976d2" alt="Last commit"></a>
@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td align="center" width="20%">📚<br><strong>188 Papers</strong><br><sub>Peer-reviewed conference work</sub></td>
+    <td align="center" width="20%">📚<br><strong>205 Papers</strong><br><sub>Peer-reviewed conference work</sub></td>
     <td align="center" width="20%">🧭<br><strong>17 Topics</strong><br><sub>Peer-level research themes</sub></td>
     <td align="center" width="20%">🧩<br><strong>16 Projects</strong><br><sub>Open-source systems</sub></td>
     <td align="center" width="20%">🛠️<br><strong>12 Tools</strong><br><sub>Research utilities</sub></td>
@@ -39,6 +39,11 @@
 
 ## Recent Additions
 
+- [Direct-to-Cell Satellite Radio Signal Traceback at Scale](https://dl.acm.org/doi/10.1145/3795866.3844453) — `MobiCom 2026` · `Direct-to-Cell` · `Measurement`
+- [DynaFilter: Cloud-Driven Dynamic Filtering for Satellite Edge Intelligence](https://dl.acm.org/doi/10.1145/3795866.3844496) — `MobiCom 2026` · `Space Computing` · `Sensing`
+- [SkyShare: Constellation-wide Sky Sharing for LEO-Radio Astronomy Coexistence](https://dl.acm.org/doi/10.1145/3795866.3844487) — `MobiCom 2026` · `Resource Management` · `Physical Layer`
+- [Measuring Starlink Aviation Around the World](https://dl.acm.org/doi/10.1145/3777912.3839781) — `IMC 2026` · 🏆 Best Student Paper Award · `Measurement`
+- [Data-Centric Direct-to-Cell Satellite IoT for Remote Monitoring](https://icnp26.cs.ucr.edu/acceptedpapers.html) — `ICNP 2026` · `Direct-to-Cell` · `Satellite IoT`
 - [CommSAR: Enabling Bidirectional Communication in SAR Imaging Satellites via Shared Waveform](https://dl.acm.org/doi/10.1145/3789240.3829144) — `SIGCOMM 2026` · `Physical Layer` · `Ground Segment`
 - [Planet-Scale IoT Connectivity via LEO Satellites](https://dl.acm.org/doi/10.1145/3789240.3829147) — `SIGCOMM 2026` · `Satellite IoT` · `Measurement`
 - [Dissecting the StarLink: Characterizing Queuing and Flow Dynamics in the Starlink Network](https://dl.acm.org/doi/10.1145/3789240.3829162) — `SIGCOMM 2026` · `Measurement` · `Transport`
@@ -121,6 +126,11 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [Network topology design at 27,000 km/hour](https://dl.acm.org/doi/10.1145/3359989.3365407) — `CoNEXT 2019`
 
 ### Routing
+- [BIER-DC: Stateless Multicast for In-Orbit Space Data Centers in LEO Constellations](https://arxiv.org/abs/2610.19462) — `ICNP 2026`
+- [How Area Geometry Shapes Link-State Routing Scalability in LEO Networks](https://icnp26.cs.ucr.edu/acceptedpapers.html) — `ICNP 2026`
+- [OrbitTransit: Traffic Delivery and Diffusion for Earth Observation via Satellite Mobility](https://dl.acm.org/doi/10.1145/3745756.3809199) — `MobiSys Emerging Ideas 2026`
+- [Rethink Web Service Resilience in Space: A Radiation-Aware and Sustainable Transmission Solution](https://dl.acm.org/doi/10.1145/3774904.3792863) — `WWW Short Papers 2026`
+- [StarRound: An Efficient Multiple Geographic Region-Avoidance Mechanism for High Dynamic LEO Satellite Networks](https://doi.org/10.1109/IWQoS70441.2026.11661073) — `IWQoS 2026`
 - [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) — `NINeS 2026`
 - [DS-Route: GNN-based Flow-Level Latency Prediction in Software-Defined LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571392) — `INFOCOM 2026`
 - [Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://ieeexplore.ieee.org/document/11571543) — `INFOCOM 2026`
@@ -157,6 +167,9 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [Geographic Low-Earth-Orbit Networking without QoS Bottlenecks from Infrastructure Mobility](https://ieeexplore.ieee.org/document/9812903) — `IWQoS 2022`
 
 ### Resource Management
+- [Renewables Power the Orbit? Achieving Sustainable Space Edge Computing via QoS-Aware Offloading](https://doi.org/10.1109/IWQoS70441.2026.11661035) — `IWQoS 2026`
+- [SkyShare: Constellation-wide Sky Sharing for LEO-Radio Astronomy Coexistence](https://dl.acm.org/doi/10.1145/3795866.3844487) — `MobiCom 2026`
+- [STAR-GS: Truthful and Visibility-Aware Resource Scheduling for Ground Station as a Service](https://arxiv.org/abs/2608.22222) — `ICNP 2026`
 - [Achieving Efficient Storage and Communication via Collaboration](https://dl.acm.org/doi/10.1145/3789240.3829176) — `SIGCOMM 2026`
 - [KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://ieeexplore.ieee.org/document/11571195) — `INFOCOM 2026`
 - [PMPS: Predictive Multi-Path Scheduling for Handover-Free LEO Communications](https://doi.org/10.1109/INFOCOM59046.2026.11571684) — `INFOCOM 2026`
@@ -179,6 +192,10 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks](https://ieeexplore.ieee.org/document/9155485) — `INFOCOM 2020`
 
 ### Ground Segment
+- [ISP or Customer? Inferring the Ownership of Public IPs of Non-Cooperative Satellite Internet via Internet Measurements](https://doi.org/10.1109/IWQoS70441.2026.11661212) — `IWQoS 2026`
+- [OrbitTransit: Traffic Delivery and Diffusion for Earth Observation via Satellite Mobility](https://dl.acm.org/doi/10.1145/3745756.3809199) — `MobiSys Emerging Ideas 2026`
+- [Renewables Power the Orbit? Achieving Sustainable Space Edge Computing via QoS-Aware Offloading](https://doi.org/10.1109/IWQoS70441.2026.11661035) — `IWQoS 2026`
+- [STAR-GS: Truthful and Visibility-Aware Resource Scheduling for Ground Station as a Service](https://arxiv.org/abs/2608.22222) — `ICNP 2026`
 - [CommSAR: Enabling Bidirectional Communication in SAR Imaging Satellites via Shared Waveform](https://dl.acm.org/doi/10.1145/3789240.3829144) — `SIGCOMM 2026`
 - [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) — `NINeS 2026`
 - [Enabling Efficient Transmission of Satellite-to-Ground Downlinks via Throughput Prediction](https://ieeexplore.ieee.org/document/11571545) — `INFOCOM 2026`
@@ -194,6 +211,8 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites](https://dl.acm.org/doi/10.1145/3422604.3425926) — `HotNets 2020`
 
 ### Direct-to-Cell
+- [Data-Centric Direct-to-Cell Satellite IoT for Remote Monitoring](https://icnp26.cs.ucr.edu/acceptedpapers.html) — `ICNP 2026`
+- [Direct-to-Cell Satellite Radio Signal Traceback at Scale](https://dl.acm.org/doi/10.1145/3795866.3844453) — `MobiCom 2026`
 - [A Variegated Look at Direct-to-Cell Satellites in the Wild](https://dl.acm.org/doi/10.1145/3788086) — `SIGMETRICS 2026`
 - [LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks](https://www.usenix.org/conference/usenixsecurity26/presentation/shi-quan) — `USENIX Security 2026` · 🏆 Distinguished Paper Award
 - [SigHitching: Efficient Non-Broadcast Paging in Direct-to-Cell LEO Satellite Networks](https://ieeexplore.ieee.org/document/11571622) — `INFOCOM 2026`
@@ -206,6 +225,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [A Case for Stateless Mobile Core Network Functions in Space](https://dl.acm.org/doi/abs/10.1145/3544216.3544233) — `SIGCOMM 2022`
 
 ### Physical Layer
+- [SkyShare: Constellation-wide Sky Sharing for LEO-Radio Astronomy Coexistence](https://dl.acm.org/doi/10.1145/3795866.3844487) — `MobiCom 2026`
 - [CommSAR: Enabling Bidirectional Communication in SAR Imaging Satellites via Shared Waveform](https://dl.acm.org/doi/10.1145/3789240.3829144) — `SIGCOMM 2026`
 - [Pinpointing Transmitting LEO Satellites from a Single Passive Array](https://dl.acm.org/doi/10.1145/3745756.3809228) — `MobiSys 2026`
 - [Satellites are closer than you think: A near field MIMO approach for satellite ground stations](https://ieeexplore.ieee.org/document/11571506) — `INFOCOM 2026`
@@ -228,6 +248,9 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [GNSS spoofing detection via opportunistic IRIDIUM signals](https://dl.acm.org/doi/10.1145/3395351.3399350) — `WiSec 2020`
 
 ### Transport
+- [Characterizing the Configuration of Starlink Queuing](https://dl.acm.org/doi/10.1145/3777912.3809153) — `IMC 2026`
+- [Looking at Stars: Analyzing Real-Time Video Conferencing over Starlink](https://dl.acm.org/doi/10.1145/3777912.3839805) — `IMC 2026`
+- [Tackling the Dynamism Paradox: Congestion Control for Ambiguous Signals in LEO Satellite Networks](https://icnp26.cs.ucr.edu/acceptedpapers.html) — `ICNP 2026`
 - [Dissecting the StarLink: Characterizing Queuing and Flow Dynamics in the Starlink Network](https://dl.acm.org/doi/10.1145/3789240.3829162) — `SIGCOMM 2026`
 - [LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics](https://dl.acm.org/doi/10.1145/3718958.3750491) — `SIGCOMM 2025`
 - [SatPipe: Deterministic TCP Adaptation for Highly Dynamic LEO Satellite Networks](https://ieeexplore.ieee.org/document/11044600) — `INFOCOM 2025`
@@ -239,6 +262,11 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [Lightweight Retransmission for Random Access in Satellite Networks](https://ieeexplore.ieee.org/document/8485806) — `INFOCOM 2018`
 
 ### Measurement
+- [Characterizing the Configuration of Starlink Queuing](https://dl.acm.org/doi/10.1145/3777912.3809153) — `IMC 2026`
+- [Direct-to-Cell Satellite Radio Signal Traceback at Scale](https://dl.acm.org/doi/10.1145/3795866.3844453) — `MobiCom 2026`
+- [ISP or Customer? Inferring the Ownership of Public IPs of Non-Cooperative Satellite Internet via Internet Measurements](https://doi.org/10.1109/IWQoS70441.2026.11661212) — `IWQoS 2026`
+- [Looking at Stars: Analyzing Real-Time Video Conferencing over Starlink](https://dl.acm.org/doi/10.1145/3777912.3839805) — `IMC 2026`
+- [Measuring Starlink Aviation Around the World](https://dl.acm.org/doi/10.1145/3777912.3839781) — `IMC 2026` · 🏆 Best Student Paper Award
 - [Dissecting the StarLink: Characterizing Queuing and Flow Dynamics in the Starlink Network](https://dl.acm.org/doi/10.1145/3789240.3829162) — `SIGCOMM 2026`
 - [Planet-Scale IoT Connectivity via LEO Satellites](https://dl.acm.org/doi/10.1145/3789240.3829147) — `SIGCOMM 2026`
 - [A Large-Scale IPv6-Based Measurement of the Starlink Network](https://doi.org/10.1109/INFOCOM59046.2026.11571358) — `INFOCOM 2026`
@@ -273,6 +301,10 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [StarPerf: Characterizing Network Performance for Emerging Mega-Constellations](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf) — `ICNP 2020`
 
 ### Space Computing
+- [BIER-DC: Stateless Multicast for In-Orbit Space Data Centers in LEO Constellations](https://arxiv.org/abs/2610.19462) — `ICNP 2026`
+- [DynaFilter: Cloud-Driven Dynamic Filtering for Satellite Edge Intelligence](https://dl.acm.org/doi/10.1145/3795866.3844496) — `MobiCom 2026`
+- [Minimizing the Delay Disparity for Cross-Region Virtual Reality Gaming in Satellite Edge Computing](https://doi.org/10.1109/IWQoS70441.2026.11661062) — `IWQoS 2026`
+- [Renewables Power the Orbit? Achieving Sustainable Space Edge Computing via QoS-Aware Offloading](https://doi.org/10.1109/IWQoS70441.2026.11661035) — `IWQoS 2026`
 - [Achieving Efficient Storage and Communication via Collaboration](https://dl.acm.org/doi/10.1145/3789240.3829176) — `SIGCOMM 2026`
 - [Enabling Near-realtime Remote Sensing via Satellite–Ground Collaboration of Large Vision–Language Models](https://dl.acm.org/doi/10.1145/3774906.3800497) — `SenSys 2026`
 - [KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://ieeexplore.ieee.org/document/11571195) — `INFOCOM 2026`
@@ -293,6 +325,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [In-orbit Computing: An Outlandish thought Experiment?](https://dl.acm.org/doi/pdf/10.1145/3422604.3425937) — `HotNets 2020`
 
 ### Sensing
+- [DynaFilter: Cloud-Driven Dynamic Filtering for Satellite Edge Intelligence](https://dl.acm.org/doi/10.1145/3795866.3844496) — `MobiCom 2026`
 - [Achieving Efficient Storage and Communication via Collaboration](https://dl.acm.org/doi/10.1145/3789240.3829176) — `SIGCOMM 2026`
 - [Enabling Near-realtime Remote Sensing via Satellite–Ground Collaboration of Large Vision–Language Models](https://dl.acm.org/doi/10.1145/3774906.3800497) — `SenSys 2026`
 - [Exploring LEO Satellite Networks for Continuous Monitoring and Dynamic Tracking](https://dl.acm.org/doi/10.1145/3774906.3802766) — `SenSys 2026`
@@ -323,6 +356,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [Dual Adversarial Network for Unsupervised Ground/Satellite-to-Aerial Scene Adaptation](https://dl.acm.org/doi/10.1145/3394171.3413893) — `MM 2020`
 
 ### Satellite IoT
+- [Data-Centric Direct-to-Cell Satellite IoT for Remote Monitoring](https://icnp26.cs.ucr.edu/acceptedpapers.html) — `ICNP 2026`
 - [Planet-Scale IoT Connectivity via LEO Satellites](https://dl.acm.org/doi/10.1145/3789240.3829147) — `SIGCOMM 2026`
 - [B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining](https://dl.acm.org/doi/10.1145/3680207.3723463) — `MobiCom 2025`
 - [SARLink: Satellite Backscatter Connectivity using Synthetic Aperture Radar](https://dl.acm.org/doi/10.1145/3715014.3722061) — `SenSys 2025`
@@ -394,6 +428,8 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [GNSS spoofing detection via opportunistic IRIDIUM signals](https://dl.acm.org/doi/10.1145/3395351.3399350) — `WiSec 2020`
 
 ### Reliability
+- [Rethink Web Service Resilience in Space: A Radiation-Aware and Sustainable Transmission Solution](https://dl.acm.org/doi/10.1145/3774904.3792863) — `WWW Short Papers 2026`
+- [StarRound: An Efficient Multiple Geographic Region-Avoidance Mechanism for High Dynamic LEO Satellite Networks](https://doi.org/10.1109/IWQoS70441.2026.11661073) — `IWQoS 2026`
 - [A Comprehensive Study of Satellite Network Performance During Severe or Extreme Geomagnetic Storms over 1.5 Years (May 2024 - Oct 2025)](https://dl.acm.org/doi/10.1145/3788084) — `SIGMETRICS 2026`
 - [How Resilient are They? Robustness Analysis of LEO Satellite Routing](https://doi.org/10.1109/IWQOS65803.2025.11143286) — `IWQoS 2025`
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://ieeexplore.ieee.org/abstract/document/11132935) — `DAC 2025`

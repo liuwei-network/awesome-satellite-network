@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/conference%20papers-188-00bcd4" alt="188 conference papers">
+  <img src="https://img.shields.io/badge/conference%20papers-205-00bcd4" alt="205 conference papers">
   <img src="https://img.shields.io/badge/venues-21-6f42c1" alt="21 venues">
 </p>
 
@@ -49,8 +49,11 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 <a id="mobicom"></a>
 
 <details markdown="1">
-<summary><strong>MobiCom</strong> · 12 papers</summary>
+<summary><strong>MobiCom</strong> · 15 papers</summary>
 
+- [Direct-to-Cell Satellite Radio Signal Traceback at Scale](https://dl.acm.org/doi/10.1145/3795866.3844453) — `MobiCom 2026` · `Direct-to-Cell` · `Measurement`
+- [DynaFilter: Cloud-Driven Dynamic Filtering for Satellite Edge Intelligence](https://dl.acm.org/doi/10.1145/3795866.3844496) — `MobiCom 2026` · `Space Computing` · `Sensing`
+- [SkyShare: Constellation-wide Sky Sharing for LEO-Radio Astronomy Coexistence](https://dl.acm.org/doi/10.1145/3795866.3844487) — `MobiCom 2026` · `Resource Management` · `Physical Layer`
 - [SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing](https://dl.acm.org/doi/epdf/10.1145/3680207.3765249) — `MobiCom 2025` · `Resource Management` · `Sensing`
 - [B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining](https://dl.acm.org/doi/10.1145/3680207.3723463) — `MobiCom 2025` · `Physical Layer` · `Satellite IoT`
 - [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362) — `MobiCom 2024` · `Routing`
@@ -215,8 +218,12 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 <a id="iwqos"></a>
 
 <details markdown="1">
-<summary><strong>IWQoS</strong> · 7 papers</summary>
+<summary><strong>IWQoS</strong> · 11 papers</summary>
 
+- [ISP or Customer? Inferring the Ownership of Public IPs of Non-Cooperative Satellite Internet via Internet Measurements](https://doi.org/10.1109/IWQoS70441.2026.11661212) — `IWQoS 2026` · `Ground Segment` · `Measurement`
+- [Minimizing the Delay Disparity for Cross-Region Virtual Reality Gaming in Satellite Edge Computing](https://doi.org/10.1109/IWQoS70441.2026.11661062) — `IWQoS 2026` · `Space Computing`
+- [Renewables Power the Orbit? Achieving Sustainable Space Edge Computing via QoS-Aware Offloading](https://doi.org/10.1109/IWQoS70441.2026.11661035) — `IWQoS 2026` · `Resource Management` · `Ground Segment` · `Space Computing`
+- [StarRound: An Efficient Multiple Geographic Region-Avoidance Mechanism for High Dynamic LEO Satellite Networks](https://doi.org/10.1109/IWQoS70441.2026.11661073) — `IWQoS 2026` · `Routing` · `Reliability`
 - [Beneath the Heavens: A Thorough Measurement Study of the Starlink Terrestrial Network](https://doi.org/10.1109/IWQOS65803.2025.11143359) — `IWQoS 2025` · `Ground Segment` · `Measurement`
 - [How Resilient are They? Robustness Analysis of LEO Satellite Routing](https://doi.org/10.1109/IWQOS65803.2025.11143286) — `IWQoS 2025` · `Routing` · `Reliability`
 - [Orchestrating Sustainable and Service-Differentiable Satellite Networking: A Federated Cross-Orbit Approach](https://doi.org/10.1109/IWQOS61813.2024.10682914) — `IWQoS 2024` · `Resource Management`
@@ -245,8 +252,13 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 <a id="icnp"></a>
 
 <details markdown="1">
-<summary><strong>ICNP</strong> · 9 papers</summary>
+<summary><strong>ICNP</strong> · 14 papers</summary>
 
+- [BIER-DC: Stateless Multicast for In-Orbit Space Data Centers in LEO Constellations](https://arxiv.org/abs/2610.19462) — `ICNP 2026` · `Routing` · `Space Computing`
+- [Data-Centric Direct-to-Cell Satellite IoT for Remote Monitoring](https://icnp26.cs.ucr.edu/acceptedpapers.html) — `ICNP 2026` · `Direct-to-Cell` · `Satellite IoT`
+- [How Area Geometry Shapes Link-State Routing Scalability in LEO Networks](https://icnp26.cs.ucr.edu/acceptedpapers.html) — `ICNP 2026` · `Routing`
+- [STAR-GS: Truthful and Visibility-Aware Resource Scheduling for Ground Station as a Service](https://arxiv.org/abs/2608.22222) — `ICNP 2026` · `Ground Segment` · `Resource Management`
+- [Tackling the Dynamism Paradox: Congestion Control for Ambiguous Signals in LEO Satellite Networks](https://icnp26.cs.ucr.edu/acceptedpapers.html) — `ICNP 2026` · `Transport`
 - [ERA-LEO: An Efficient Rate Adaptation with Probabilistic Constellation Shaping for LEO Satellite Networks](https://doi.org/10.1109/ICNP65844.2025.11192403) — `ICNP 2025` · `Resource Management` · `Physical Layer`
 - [NDN's Stateful Forwarding Plane in the Presence of Ground-Satellite Handovers](https://doi.org/10.1109/ICNP61940.2024.10858574) — `ICNP 2024` · `Routing` · `Mobility`
 - [The Space Above the Sky: Uniting Global-Scale Ground Station as a Service for Efficient Orbital Data Processing](https://doi.org/10.1109/ICNP61940.2024.10858567) — `ICNP 2024` · `Ground Segment` · `Space Computing`
@@ -262,8 +274,11 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 <a id="imc"></a>
 
 <details markdown="1">
-<summary><strong>IMC</strong> · 8 papers</summary>
+<summary><strong>IMC</strong> · 11 papers</summary>
 
+- [Characterizing the Configuration of Starlink Queuing](https://dl.acm.org/doi/10.1145/3777912.3809153) — `IMC 2026` · `Measurement` · `Transport`
+- [Looking at Stars: Analyzing Real-Time Video Conferencing over Starlink](https://dl.acm.org/doi/10.1145/3777912.3839805) — `IMC 2026` · `Measurement` · `Transport`
+- [Measuring Starlink Aviation Around the World](https://dl.acm.org/doi/10.1145/3777912.3839781) — `IMC 2026` · 🏆 Best Student Paper Award · `Measurement`
 - [Assessing LEO Satellite Networks for National Emergency Failover](https://dl.acm.org/doi/10.1145/3730567.3764482) — `IMC 2025` · `Measurement`
 - [From GEO to LEO: First Look Into Starlink In-Flight Connectivity](https://dl.acm.org/doi/10.1145/3730567.3764491) — `IMC 2025` · `Measurement`
 - [Satellite IoT in Practice: A First Measurement Study on Network Availability, Performance, and Costs](https://dl.acm.org/doi/10.1145/3730567.3764496) — `IMC 2025` · `Measurement` · `Satellite IoT`
@@ -359,8 +374,10 @@ Papers are grouped by publication venue and ordered by year. Topic tags connect 
 <a id="other"></a>
 
 <details markdown="1">
-<summary><strong>Other</strong> · 6 papers</summary>
+<summary><strong>Other</strong> · 8 papers</summary>
 
+- [OrbitTransit: Traffic Delivery and Diffusion for Earth Observation via Satellite Mobility](https://dl.acm.org/doi/10.1145/3745756.3809199) — `MobiSys Emerging Ideas 2026` · `Routing` · `Ground Segment`
+- [Rethink Web Service Resilience in Space: A Radiation-Aware and Sustainable Transmission Solution](https://dl.acm.org/doi/10.1145/3774904.3792863) — `WWW Short Papers 2026` · `Routing` · `Reliability`
 - [What Obstructed Skies Teach Us about Satellite Internet](https://nines-conference.org/papers/p007-Kataria.pdf) — `NINeS 2026` · `Measurement`
 - [Stealthy Low Earth Orbit Satellite-to-Ground Quantum Communication](https://nines-conference.org/papers/p011-Song.pdf) — `NINeS 2026` · `Security`
 - [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/papers/p028-Liu.pdf) — `NINeS 2026` · `Architecture` · `Routing` · `Resource Management` · `Ground Segment`
