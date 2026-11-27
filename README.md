@@ -32,7 +32,7 @@
     <td align="center" width="20%">📚<br><strong>205 Papers</strong><br><sub>Peer-reviewed conference work</sub></td>
     <td align="center" width="20%">🧭<br><strong>17 Topics</strong><br><sub>Peer-level research themes</sub></td>
     <td align="center" width="20%">🧩<br><strong>16 Projects</strong><br><sub>Open-source systems</sub></td>
-    <td align="center" width="20%">🛠️<br><strong>12 Tools</strong><br><sub>Research utilities</sub></td>
+    <td align="center" width="20%">🛠️<br><strong>13 Tools</strong><br><sub>Research utilities</sub></td>
     <td align="center" width="20%">🗂️<br><strong>28 Datasets</strong><br><sub>Public research data</sub></td>
   </tr>
 </table>
@@ -503,6 +503,7 @@ Papers are listed under a primary topic and may also appear in additional topics
 - [Starlink.sx](https://starlink.sx) — An interactive 3D map for exploring Starlink orbits, coverage, gateways, and network geometry.
 - [See Starlink](https://james.darpinian.com/satellites/?special=starlink) — Predicts visible Starlink satellite passes for a user-selected location.
 - [Satellite Map](https://satellitemap.space) — Displays an interactive map of Starlink and other satellite constellations.
+- [SatLab](https://satlab.darshitp.dev/satlab/) — An interactive mission-control dashboard with 3D globe, 2D map, and sky views that streams SGP4-propagated satellite positions, ground tracks, and pass arcs for a chosen ground station.
 
 ### Orbit and mission analysis
 - [Orekit](https://www.orekit.org/) — A Java library for high-precision orbit propagation, frames, time systems, attitude, and visibility analysis.
